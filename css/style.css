@@ -14,31 +14,18 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     clear: both;
 }
 
-/* Add 5px bottom padding and a underline */
-nav.vertical ul li {
-    display: block;
-}
-
-/* vertical menu */
-nav.horizontal ul li {
-    display: inline-block;
-}
 
 /* horizontal menu */
 img {
     max-width: 100%;
 }
 
-/*end reset*/
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
     display: block;
 }
 
-body {
-    line-height: 1;
-}
 
 ol, ul {
     list-style: none;
@@ -54,9 +41,8 @@ body {
 }
 
 .header {
-    background: url(../images/test.jpg);
-    top: 0;
-    left: 0;
+    background: url(../images/home.jpg) no-repeat 0px 0px fixed;
+    background-size:cover;
     width: 100%;
     height: 100%;
     z-index: 10;
@@ -74,9 +60,10 @@ header {
     line-height: 28px;
 }
 
-.title {
-    width: 331px;
-    margin: 0 auto;
+
+.main{
+    font-family:'PingFang SC',cursive,'Kaiti SC';
+    font-size:60px
 }
 
 .bg_mask {
@@ -95,10 +82,6 @@ header {
     font-size: 20px;
 }
 
-header .wrap, .services_wrapper .wrap {
-    z-index: 20;
-}
-
 header p {
     max-width: 535px;
     margin: 3% auto 3% auto;
@@ -109,12 +92,19 @@ header h1 {
     line-height: 40px;
     font-weight: 900;
     text-transform: uppercase;
-    margin-top: 0.6em;
+    margin-top: 0.5em;
+}
+header h2 {
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 0.5em;
 }
 
 header h6 {
-    border-bottom: 1px solid #fff;
-    width: 170px;
+    border-bottom: 0.5px solid #fff;
+    width: 150px;
     height: 1px;
     margin: 0 auto;
 }
@@ -129,13 +119,7 @@ header h6 {
     -moz-box-sizing: border-box;
 }
 
-.nav_wrapper.sticky {
-    position: fixed;
-    top: 0px;
-    height: 84px;
-}
-
-.Seon {
+.seon {
     margin: 0;
     display: block;
     font-family: 'Times New Roman';
@@ -145,14 +129,11 @@ header h6 {
     color:black;
 }
 
-.navigation a {
-    text-transform: uppercase;
-    color: #747474;
-    font-size: 24px;
-    text-decoration: none;
-    padding: 0.5em 5em;
-    display: block;
+.sub_main{
+    font-family:'Times New Roman',cursive;
+    font-size:20px
 }
+
 
 .button {
     padding: 25px 45px;
