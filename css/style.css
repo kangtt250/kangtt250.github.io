@@ -1,3 +1,32 @@
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+a{
+    color: #979797;
+    text-decoration: none;
+    font-family: Trattatello, fantasy;
+    font-size:2em;
+}
+.container{
+    width: 80%;
+    position: relative;
+    min-height: 750px;
+}
+.clr{
+    clear: both;
+    padding: 0;
+    height: 0;
+    margin: 0;
+}
+
 .clear {
     clear: both;
 }
@@ -67,19 +96,21 @@ header p {
 }
 
 header h1 {
-    font-size: 1.2em;
-    line-height: 1em;
-    font-weight: 900;
-    text-transform: uppercase;
-    margin-top: 0.5em;
-}
-
-header h2 {
-    font-size: 0.8em;
+    font-size: 1.3em;
     line-height: 2em;
     font-weight: 900;
     text-transform: uppercase;
-    margin-top: 0.5em;
+    margin-top: 3em;
+    font-family: cursive;
+}
+
+header h2 {
+    font-size: 1em;
+    line-height: 2em;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: cursive;
+    margin-top: 3em;
 }
 
 header h6 {
@@ -134,12 +165,13 @@ header h6 {
 }
 
 .top-grids {
-    margin: 5em 0;
+    margin: 3.5em 0;
     position: relative;
 }
 
 .top-grid {
     width: 31.5%;
+    font-family: 'Avenir', sans-serif;
 }
 
 .top-grid a {
@@ -169,18 +201,6 @@ header h6 {
 
 .copy p a:hover {
     color: #979797;
-}
-
-#toTop {
-    display: none;
-    position: fixed;
-    bottom: 1em;
-    right: 2em;
-    overflow: hidden;
-    width: 4%;
-    height: 4%;
-    border: none;
-    background: url(../images/top_move.png) no-repeat right top;
 }
 
 .da-thumbs li {
