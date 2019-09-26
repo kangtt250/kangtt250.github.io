@@ -8,6 +8,11 @@
     margin: 0;
 }
 
+img wechat{
+    width:400px;
+    border:black 1px solid;
+}
+
 a span{
     color: #979797;
     text-decoration: none;
