@@ -23,14 +23,14 @@ Optimistic, self-driven, strong sense of responsibility for work, able to contin
 ## Skills
 
 **Domestic ：**
-***
+
 * _Senior Software Engineer_
 * _Senior Database Engineer_
 * _Senior Software Test Engineer_ 
 
 
 **International ：**
-***
+
 * _PMP (Project Management Professional)_
 * _Expert of TMMi Foundation Expert Group_
 * _ITILV3 (Information Technology Infrastructure Library)_
@@ -40,13 +40,13 @@ Optimistic, self-driven, strong sense of responsibility for work, able to contin
 
 
 **Language ：**
-***
+
 * _Japanese: JLPT-N1_
 * _English: CET-6_
 
 
 **Online course ：**
-***
+
 * _Python Data Structure（University of Michigan & Coursera Verified）_
 * _Using Python to Access Web Data（University of Michigan & Coursera Verified）_
 * _Using Databases with Python（University of Michigan & Coursera Verified）_

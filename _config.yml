@@ -49,9 +49,9 @@ author:
 menu:  
   - title:             About
     url:               /about/ # We can add more links here later on.
-  - title:             Seon's Blogs
+  - title:             Blogs
     url:               /blogs/ # We can add more links here later on.
-  - title:             Resume
+  - title:             Résumé*
     url:               /resume/ # We can add more links here later on.
 
 # This text will appear in a `<small>` tag in the footer of every page.
