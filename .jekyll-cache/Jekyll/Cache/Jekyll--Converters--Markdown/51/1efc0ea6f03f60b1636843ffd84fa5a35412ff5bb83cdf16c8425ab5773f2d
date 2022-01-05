@@ -1,0 +1,59 @@
+I"�<p>This week I devoted to finishing the main menu UI. unfortunately, it’s not all done yet, but I’m close. 
+Here’s what I’ve added to it this past week.</p>
+
+<h1 id="save-file-sub-menu">Save File Sub-menu</h1>
+
+<p>After designing the options and quit menu last week, I wasted no time in getting the file screen design finished.
+The file screen is what the player would see when they select “Load Game”. Here, they can view the save slots and
+choose which one to play on, be it a new save file or an existing one where they can continue their progress. I
+decided to give our game a limit of 9 save files, as I felt that would be more than enough for a game of this type.</p>
+
+<p>As for how the file screen would look, I took inspiration from <a href="https://en.wikipedia.org/wiki/Freedom_Planet"><em>Freedom Planet</em></a>, a game that I’ve been enjoying lately.
+In that game, the files are laid out horizontally, and the player can move left and right to cycle between them. My 
+prototype design for the file screen can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-4-file-screen.png" alt="File Screen" class="lead" />
+The file screen, looking at these screenshots I realise I have to fix the UI’s layout once and for all.</p>
+
+<h1 id="panel-setup">Panel Setup</h1>
+
+<p>Now that I had all of my panels (sub-menus) in place, I had to begin work on allowing the player to cycle between
+these panels seamlessly and robustly. This first involved my script gaining access to these menus and their properties
+as soon as the game started.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-4-accessing-panels.png" alt="Panel Access" class="lead" />
+Access to each sub-menu is obtained as soon as game begins.</p>
+
+<p>Once I had obtained access to the menu’s panels, I then created a method that would take in a string to determine 
+what menu should become active. This method determines which menu is the new active menu, then it calls the UpdateMenuPanels()
+method to activate that menu and ensure the others are deactivated. This method has worked perfectly for the on-click events 
+of my menu buttons. The code can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-4-on-click.png" alt="On-click" class="lead" />
+Each button that causes a panel transition utilises the aforementioned method to activate the next menu panel.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-4-active-menu-methods.png" alt="Panel Activation Code" class="lead" />
+Each button that causes a panel transition utilises the aforementioned method to activate the next menu panel.</p>
+
+<p>I’m quite happy with the above method as I believe it handles menu transitions very well. On top of that, the panel
+setup I have implemented in my Awake() method has the pleasant side effect of starting the game with the main menu 
+active, no matter which panel is active while I’m working on it in Scene Edit mode.</p>
+
+<h1 id="highlight-shenanigans">Highlight Shenanigans</h1>
+
+<p>Finally, when my sub-menus were all set up, I had to begin the arduous process of ensuring my highlighter 
+(used to denote which menu option the user is hovering over) would transition seamlessly between menus. To maintain the
+menu’s dynamism, I wanted the highlight to move from option to option, menu to menu, instead of simply teleporting to the
+next option. I had to derive a method that ensured the highlighter would move between methods. After a lot of trials and 
+tribulations, I implemented a coroutine that worked for me. The code can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-4-highlight-transfer-coroutine.png" alt="Highlight Transfer Coroutine" class="lead" />
+This coroutine moves our highlighter to the appropriate location depending on which menu has been activated.</p>
+
+<p>I managed to get the highlighter transitioning between the main menu, the options menu and the quit menu this week. First thing next week
+is to allow for transfer to and from the file menu.</p>
+
+<p>Side Note: I also dabbled in implementing joystick input for the menu, as well as the game in general. I’ll likely be working on this after the menu’s finished.</p>
+
+<p>‘Til next time!</p>
+:ET

@@ -1,0 +1,6 @@
+I"�<p>As I stated in my last post, my first task for this week was to work on the game’s UI, starting with the game’s main menu. I have a lot of experience making simple menus for my other game projects in the past.
+All the ones I’ve made before were quite static: A simple background image, with buttons that you could only click, not highlight. I could’ve recycled one of my older menus, but I decided that I wanted to challenge myself
+and create a quality UI from the get-go, one that was vibrant and constantly in motion. I took note of the main menu I saw in <a href="https://youtu.be/e8SRYnCkz7s">Sonic CD</a>, a game I played through recently, this was the kind of
+menu I wanted to emulate. I didn’t want the menu options to stay static either, I wanted to get them scrolling according to the player’s input. When I wasn’t precoccupied with other aspects of the project, this was my primary
+challenge this week.</p>
+:ET

@@ -1,0 +1,27 @@
+I"�<p>This week I was successful in creating a prototype animation state machine for Katt. It was a simple enough affair
+as I had some experience making one in the last Global Game Jam. Here’s a quick look at the state machine in its 
+current form.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-14-animation-state-machine.png" alt="Proto-State Machine" class="lead" />
+Katt’s animation state machine at the moment. Of course it’ll need various tweaks and additions down the line.</p>
+
+<p>I’ve tested the state machine in-game and it seems to change animations according to when I want them to change.
+There will be certain things I will need to adjust or fix later on, though I will likely leave it until the final
+animations are in as it will be much easier to test them. At the moment it can be hard to differentiate the animations
+by a change in colour alone.</p>
+
+<p>I’ve added this new animated Katt to each of our test scenes. In the Movement Test Scene I’ve added the new Katt 
+alongside the old Katt, so that the others can continue working with the other Katt object if they so wish. To this
+end, I’ve added a function to the camera follow script that allows it to find the object in the scene containing 
+the name “katt” and set it as the object to follow. Now, whoever wants to test a particular Katt can simply deactivate 
+the other Katt and the camera will automatically follow the one remaining.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-14-twin-katts.png" alt="Twin Katts" class="lead" />
+The old Katt gameobject (original colour) alongside the animated Katt gameobject (blue).</p>
+
+<p>That’s all for this week, apart from working on the animation state machine I’ve continued to search for answers on
+the Tilemap issue, but to no avail. However, I have heard from a friend that using raycasts with normals may be an
+alternative to my angle tile idea. This’ll require further investigation.</p>
+
+<p>‘Til next time!</p>
+:ET

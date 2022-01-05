@@ -1,0 +1,51 @@
+I"�<p>Well, it’s only a few days before our deadline, which according to our brief is Monday, September 2nd, at 9AM. So 
+there’s no time to waste, let’s talk about what we’ve been up to this past week.</p>
+
+<h1 id="the-task-of-tiling">The Task of Tiling</h1>
+
+<p>To get ready for our presentation, we of course had to make sure that we had a level ready. Since I was already 
+working on my assigned level (Level 3: Ice Plains), we decided to finish off this level and get it ready. As a 
+result, I spent a lot of time using the snow tilemap to paint the layout of the level. As expected, this was a 
+time-consuming process, as I had to think about where I wanted to place hazards, or how I wanted the player to 
+be able to progress through certain areas. After that arduous task was finished, my next job was to place the 
+collectibles (V Coins) throughout the level, which was simpler though still a bit tedious. Take a look at the
+level in its current form below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-20-demo-level-layout.png" alt="Demo Level Layout" class="lead" />
+Our demo level, littered with V Coins.</p>
+
+<h1 id="the-resolution-solution-at-last">The Resolution Solution at Last</h1>
+
+<p>With the help of a friend at the lab in the IT, I’ve finally fixed the ever-annoying issue I’ve had since <a href="https://teamviteza.github.io/jack/2019-05-24-entry-vii/">week 7</a>
+where the UI in my main menu would be skewed after switching to different resolutions. My friend helped me use a
+render texture for the menu’s scrolling background, so that it will remain at the same position in front 
+of the camera. Later, I switched my menu canvas from “Screen Space - Overlay” to “Screen Space - Camera”
+and now my UI looks the same at every resolution! At long last! I’ve tested built versions of the main 
+menu and everything seems to be in place at whatever resolution.</p>
+
+<p>After getting this issue sorted, I finally added a title image to the title screen itself. Take a look below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-20-final-title-screen.png" alt="Final Title Screen" class="lead" />
+The finalised look for our title screen. It’s almost time…</p>
+
+<p>That’s all I can say for now in truth. We’re gonna be spending these last few days implementing as much as we can
+before the deadline. Everything else (our design document, our project schedule, our Trello page, and this blog) 
+is already in order and ready for submission.</p>
+
+<p>After that, we apparently have to give a presentation for this project, but at the time of writing I have been 
+given no information on exactly where, when and how we present this project. All I’ve found is that our brief 
+states that September 4th is the most likely date for presentation, but that was written months ago, so who knows?
+We’ll see what happens in the coming week all the same.</p>
+
+<p>I’ll add a small addendum to the end of this post after all is said and done. Until then, wish us luck in these 
+final hours!</p>
+
+<p>Addendum as of 06/09/2019: Well, all is submitted. It turns out that there was never going to be a presentation for our sim 
+placement projects. We received an email on September 1st stating that a presentation shouldn’t have been mentioned on the brief at all. The email also stated that if we hear nothing
+before September 4th we can assume that we’ve passed. It’s currently September 6th, so I suppose we’ve passed!</p>
+
+<p>As for the demo, you can play it <a href="https://maestrojg.itch.io/katt-viteza-and-the-metallic-menace-prologue">here</a>. Of course, it’s quite rough around the edges, but it should get across
+the kind of game we were going for.</p>
+
+<p>This is Jack Gilmartin signing off.</p>
+:ET

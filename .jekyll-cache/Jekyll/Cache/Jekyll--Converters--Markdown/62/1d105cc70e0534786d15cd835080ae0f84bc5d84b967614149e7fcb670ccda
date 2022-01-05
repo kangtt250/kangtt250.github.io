@@ -1,0 +1,20 @@
+I"�<p>This’ll be a mighty short one. Just a note on what I’ll be working on for the following week or so. After tightening
+up the stage background for my level, I decided to take over from Will and start working on player movement as I 
+feel I can get more work done coding rather than drawing. In the meantime, Will’ll be working on enemy sprites
+while Adrian will code the behaviour for the enemies. Our goal for the moment is to get all our mechanics 
+finished and integrated into one level for the time being.</p>
+
+<h1 id="the-past-week">The Past Week</h1>
+
+<p>After finalising the background and moving onto movement. I first refactored Will’s movement script and learned how
+it worked in Will’s scene. I then turned it into a prefab, added it to my scene and ensured it worked as intended
+in my scene. While testing the movement I came across an issue that seems to be prevalent in Unity projects: 
+There’s a slight frame skip I notice every now and then when moving throughout the scene. I’ve looked this 
+up and tried a number of fixes seen online, like disabling vsync, moving code from Update to FixedUpdate
+and vice versa, etc. I still have not eliminated the issue completely. I’ve since added an FPS Counter
+script from Unity’s Standard Assets package to help me keep track of the issue.</p>
+
+<p>That’s all for now, I’ll have more updates on the movement next week.</p>
+
+<p>‘Til next time!</p>
+:ET

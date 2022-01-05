@@ -1,0 +1,44 @@
+I"�<p>This week I continued to look into the possibility of getting Unity to generate a tilemap made up of my custom 
+“AngleTiles”. More below.</p>
+
+<h1 id="angle-tile">Angle Tile</h1>
+
+<p>After having installed Unity’s 2D extras into the project, I decided to study their scripts to see how they were 
+able to hook into Unity’s Editor and appear as custom Tiles and Brushes in the Tilemap Editor. The scripts didn’t 
+seem much different from the script I based my “AngleTile” script on (The “AcidTile” script seen in this <a href="https://youtu.be/C_zKWMzJNLY">video</a> I 
+mentioned last week). Around this time I was getting a number of errors with my angle tile script, with various 
+names and classes not being recognised.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-12-angletile-errors.png" alt="Angle Tile Errors" class="lead" />
+A lot of class names seemed to be missing or unrecognised by my script, not mentioned in the video I used for reference.</p>
+
+<p>After seeing no difference in Unity’s add-on tilemap scripts, I eventually noticed that those scripts were in 
+their own “Tilemap” directory within the main Assets folder. I realised that the scripts inside this Tilemap folder
+were each within their own folder called “Editor”. I knew that certain scripts will only work if they are within a
+folder of a particular name, like “Assembly” or, as previously mentioned, “Editor”. I decided to try placing my 
+scripts for the angle tile and the angle brush into a similar directory to Unity’s chosen directory, thinking this 
+might rectify some of the errors in my scripts.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-12-tile-directory.png" alt="A Uniform Directory" class="lead" />
+My attempt to ensure my scripts were in the proper directory, by keeping them uniform with Unity’s tilemap directories.</p>
+
+<p>Unfortunately this change in directory has not helped me rectify the issues with my script, I’m afraid I’ll have 
+to keep looking into it.</p>
+
+<h1 id="weapon-fire-fixes">Weapon Fire Fixes</h1>
+
+<p>During the week Adrian came to me with an issue regarding his weapon fire script: Katt would only shoot to the 
+right of the screen, even if she was facing to the left. It took some analysis of his scripts first, but it was 
+simple enough to tidy up his existing code and make use of some bools and if checks to fix the issue. I also made 
+sure that his script referenced the inputs I had set up in <a href="https://teamviteza.github.io/jack/2019-05-17-entry-vi/">week six</a>.
+The weapon will now fire in the direction Katt is facing, but only in an arc parallel to the ground. The next step 
+is to get her to fire bullets from whichever angle she’s slanted at (for example, she would fire bullets at a 45 
+degree angle while she’s travelling up a 45 degree angle slope.)</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-12-weapon-fire-improved.png" alt="Weapon Fire Improvements" class="lead" />
+A sample of some of the fixes I made to the weapon fire script.</p>
+
+<p>That’s all for this week, next week hopefully I can finally figure out this tilemap puzzle.</p>
+
+<p>‘Til next time!</p>
+:ET

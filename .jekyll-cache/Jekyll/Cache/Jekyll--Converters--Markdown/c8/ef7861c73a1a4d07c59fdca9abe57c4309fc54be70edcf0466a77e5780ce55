@@ -1,0 +1,49 @@
+I"><p>As I was working on the new movement script for Katt this past week, I came across an issue: I wanted Katt to 
+stand at an angle appropriate to the surface she’s standing on. (For example, her sprite would be tilted 45 
+degrees while standing on a 45 degree slope.) How could I get her to do this?</p>
+
+<p>Around the same time I was working on adding a tilemap to my scene, where I could load in a tilesheet of sprites
+and paint the tiles onto the scene. The tilesheet I used can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-11-snow-tilesheet.png" alt="Snow Tilesheet" class="lead" />
+The test tilesheet I’m using to layout the test level.</p>
+
+<h1 id="scriptable-objects">Scriptable Objects</h1>
+
+<p>When I read in the Sonic Physics Guide that each tile in the Sonic games has a height value associated with it, 
+I sought a way to set an angle value for each tile displaying a sloped surface. Katt would then read the angle 
+value of the tile she stepped on and tilt to that corresponding angle. I wondered how I could apply values to 
+built-in objects like Tiles, from research online I came across “Scriptable Objects” in Unity. These are data
+containers you can apply variables to, regardless of classes. You can create them as a custom asset and apply
+them to elements like tiles and brushes, or other objects you couldn’t customise otherwise in Unity. I created
+my own ScriptableObject I called “AngleTile”, simply so that the tiles in my tilesheet could hold an angle value.</p>
+
+<p>Scriptable objects were a concept I hadn’t heard of before in Unity, so throughout the week I spent time 
+watching Unity lectures and other informative videos on the subject.</p>
+
+<h3 id="here-are-some-of-the-videos-i-watched">Here are some of the videos I watched:</h3>
+
+<ul>
+  <li><a href="https://youtu.be/9gscwiS3xsU">Live Training 16th February 2016 - Introduction to Scriptable Objects</a></li>
+  <li><a href="https://youtu.be/VV0NgnztIQg">Creating Your First Scriptable Brush and Scriptable Tile</a></li>
+  <li><a href="https://youtu.be/C_zKWMzJNLY">Unity 2D Preview Tilemap Tutorial - Scriptable Tile and Tilebrush</a></li>
+</ul>
+
+<p>After watching these videos I still wasn’t entirely clear on how I could tell Unity I wanted to generate a tilemap
+made up of my own custom AngleTiles. Despite watching them thoroughly and re-watching at points, the videos never
+seemed to explicitly state how to generate a custom tilemap, the demonstators always seemed to have their custom
+tilemaps at the ready beforehand. I figured that a good option might be to install Unity’s <a href="https://github.com/Unity-Technologies/2d-extras">“2D Extras”</a>
+into the project. These extras are found on GitHub (mentioned in the second video listed above).</p>
+
+<p>After installing the custom tiles and brushes into the project and looking at their scripts I found no further 
+clarity on my question unfortunately, so I decided to pose said <a href="https://answers.unity.com/questions/1642348/can-i-generate-a-tile-palette-made-up-of-customscr.html">question</a>
+on Unity Answers and see if anyone else could assist.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-11-burning-question.png" alt="Burning Question" class="lead" />
+The question I posed on Unity Answers, will someone know the answer?</p>
+
+<p>Here’s hoping I can get some clarification on this issue, it’s quite an obscure one, throughout the week I felt 
+like I was getting to the bottom of some conspiracy. That’s all for this week, wish me luck in finding my answer!</p>
+
+<p>‘Til next time!</p>
+:ET

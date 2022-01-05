@@ -1,0 +1,18 @@
+I"<p>Not much to say this week as I’ve been out of town for much of it.</p>
+
+<h1 id="projectile-direction-issues">Projectile Direction Issues</h1>
+
+<p>Apart from planning the final preparations for the game this week, I fixed the blaster so that it will always fire
+from the direction that Katt is slanted at. It turns out the solution was incredibly simple and something I had forgotten
+about completely: Transform.right, The X axis of a transform. Using this, since the blaster is parented to Katt, 
+projectiles will always fire toward whatever her sprite is facing, be she facing right, left, up or down. As a 
+result, Katt’s blaster is now fully functional!</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-19-projectile-angles.png" alt="Projectile Directions" class="lead" />
+The different angles Katt can fire her blaster at.</p>
+
+<p>That’s all for this week, next week is the final week for this project, so it’s going to be quite a busy one for us.
+Wish us luck!</p>
+
+<p>‘Til next time!</p>
+:ET

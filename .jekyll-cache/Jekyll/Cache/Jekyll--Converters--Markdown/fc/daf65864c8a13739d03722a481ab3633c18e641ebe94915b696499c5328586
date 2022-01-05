@@ -1,0 +1,41 @@
+I"}
+<p>This week I decided to look into an alternate method of checking surface angles. I’ve had success with this new method,
+as opposed to the custom tilemap method I’ve referred to earlier. I’ll elaborate further below.</p>
+
+<h1 id="issues-arise-in-visual-studio">Issues Arise in Visual Studio</h1>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-15-vs-issues.png" alt="Visual Studio Issues" class="lead" />
+A myriad of issues I encountered upon opening Visual Studio this week.</p>
+
+<p>Before I had a chance to try this new approach however, I encountered a number of issues in Visual Studio. 
+I couldn’t load Project Viteză, or any project for that matter, Unity or not. I was stumped as to what to do, I 
+couldn’t find much assistance online, apart from mentions of updating VS. I decided that updating VS was the best 
+course of action.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-15-vs-fixed.png" alt="Visual Studio Fixed" class="lead" />
+The Update process, thankfully it served my purposes.</p>
+
+<p>Thankfully, an update was the fix for this issue. I would have been quite stuck if I couldn’t eliminate this issue
+fast.</p>
+
+<h1 id="raycast-normal-method">Raycast-Normal Method</h1>
+
+<p>After some research on using raycasts to detect vector normals, I implemented a simple raycast that shoots from
+Katt’s feet to the ground below her. This raycast then detects the normal of the platform she’s on and adjusts Katt’s
+angle to the angle found by the detected normal. This simple method has given me much more success than the Tilemap
+method, and so I removed the custom tiles and brushes from the project since they were no longer needed. A lot of 
+improvements will need to be made to this raycast system, but I am confident that I can finally move forward with 
+it and implement more features into the movement script. The images below will demonstrate the method.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-15-groundray-methods.png" alt="Groundray Methods" class="lead" />
+The basic methods to achieve this functionality.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-15-raycast.png" alt="Raycast in Action" class="lead" />
+The raycast (yellow) changing Katt’s angle.</p>
+
+<p>That’s it for this week, a lot more tweaks will be needed to improve this functionality, but I feel this is a good 
+start. The first issue I’d like to fix is to get Katt to revert her rotation upon becoming airborne again, at the moment
+she remains at the angle of the previous normal she detected until she’s detected a new normal.</p>
+
+<p>‘Til next time!</p>
+:ET

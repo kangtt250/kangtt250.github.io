@@ -1,18 +1,334 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-12-27T19:02:28+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seon Zhu</title><subtitle>Songwriter | Sound Arranger &amp; Mixer | Crypto Trader
-</subtitle><author><name>Seon Zhu</name><email>kangtt250@gmail.com</email></author><entry><title type="html">Seon Note</title><link href="http://localhost:4000/blog/2021-12-27-Seon-note/" rel="alternate" type="text/html" title="Seon Note" /><published>2021-12-27T00:00:00+08:00</published><updated>2021-12-27T18:29:35+08:00</updated><id>http://localhost:4000/blog/Seon-note</id><content type="html" xml:base="http://localhost:4000/blog/2021-12-27-Seon-note/">&lt;p&gt;Curiosity has its own reason for existence.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-01-06T04:20:32+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seon Zhu</title><subtitle>Seon's Blog.
+</subtitle><author><name>Seon Zhu</name><email>seon.zhu@gmail.com</email></author><entry><title type="html">Entry 20 - The Judgment Day</title><link href="http://localhost:4000/jack/2019-08-30-entry-xx/" rel="alternate" type="text/html" title="Entry 20 - The Judgment Day" /><published>2019-08-30T00:00:00+08:00</published><updated>2019-08-30T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xx</id><content type="html" xml:base="http://localhost:4000/jack/2019-08-30-entry-xx/">&lt;p&gt;Well, it’s only a few days before our deadline, which according to our brief is Monday, September 2nd, at 9AM. So 
+there’s no time to waste, let’s talk about what we’ve been up to this past week.&lt;/p&gt;
 
-&lt;p&gt;If you want to be rewarded, you have to be irreplaceable.&lt;/p&gt;
+&lt;h1 id=&quot;the-task-of-tiling&quot;&gt;The Task of Tiling&lt;/h1&gt;
 
-&lt;p&gt;If you want to be irreplaceable, you have to be unique.&lt;/p&gt;
+&lt;p&gt;To get ready for our presentation, we of course had to make sure that we had a level ready. Since I was already 
+working on my assigned level (Level 3: Ice Plains), we decided to finish off this level and get it ready. As a 
+result, I spent a lot of time using the snow tilemap to paint the layout of the level. As expected, this was a 
+time-consuming process, as I had to think about where I wanted to place hazards, or how I wanted the player to 
+be able to progress through certain areas. After that arduous task was finished, my next job was to place the 
+collectibles (V Coins) throughout the level, which was simpler though still a bit tedious. Take a look at the
+level in its current form below.&lt;/p&gt;
 
-&lt;p&gt;If you want to be unique, you have to be authentic.&lt;/p&gt;
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-20-demo-level-layout.png&quot; alt=&quot;Demo Level Layout&quot; class=&quot;lead&quot; /&gt;
+Our demo level, littered with V Coins.&lt;/p&gt;
 
-&lt;p&gt;If you want to be authentic, stop listening to everyone and everything else.&lt;/p&gt;
+&lt;h1 id=&quot;the-resolution-solution-at-last&quot;&gt;The Resolution Solution at Last&lt;/h1&gt;
 
-&lt;p&gt;It’s drowning “you” out.&lt;/p&gt;
+&lt;p&gt;With the help of a friend at the lab in the IT, I’ve finally fixed the ever-annoying issue I’ve had since &lt;a href=&quot;https://teamviteza.github.io/jack/2019-05-24-entry-vii/&quot;&gt;week 7&lt;/a&gt;
+where the UI in my main menu would be skewed after switching to different resolutions. My friend helped me use a
+render texture for the menu’s scrolling background, so that it will remain at the same position in front 
+of the camera. Later, I switched my menu canvas from “Screen Space - Overlay” to “Screen Space - Camera”
+and now my UI looks the same at every resolution! At long last! I’ve tested built versions of the main 
+menu and everything seems to be in place at whatever resolution.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Money is the bait, philosophy is the trap.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;After getting this issue sorted, I finally added a title image to the title screen itself. Take a look below.&lt;/p&gt;
 
-&lt;p&gt;The most &lt;strong&gt;entertaining&lt;/strong&gt; outcome is the most likely ~ :)&lt;/p&gt;</content><author><name>Seon Zhu</name><email>kangtt250@gmail.com</email></author><category term="blog" /><summary type="html">Curiosity has its own reason for existence.</summary></entry></feed>
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-20-final-title-screen.png&quot; alt=&quot;Final Title Screen&quot; class=&quot;lead&quot; /&gt;
+The finalised look for our title screen. It’s almost time…&lt;/p&gt;
+
+&lt;p&gt;That’s all I can say for now in truth. We’re gonna be spending these last few days implementing as much as we can
+before the deadline. Everything else (our design document, our project schedule, our Trello page, and this blog) 
+is already in order and ready for submission.&lt;/p&gt;
+
+&lt;p&gt;After that, we apparently have to give a presentation for this project, but at the time of writing I have been 
+given no information on exactly where, when and how we present this project. All I’ve found is that our brief 
+states that September 4th is the most likely date for presentation, but that was written months ago, so who knows?
+We’ll see what happens in the coming week all the same.&lt;/p&gt;
+
+&lt;p&gt;I’ll add a small addendum to the end of this post after all is said and done. Until then, wish us luck in these 
+final hours!&lt;/p&gt;
+
+&lt;p&gt;Addendum as of 06/09/2019: Well, all is submitted. It turns out that there was never going to be a presentation for our sim 
+placement projects. We received an email on September 1st stating that a presentation shouldn’t have been mentioned on the brief at all. The email also stated that if we hear nothing
+before September 4th we can assume that we’ve passed. It’s currently September 6th, so I suppose we’ve passed!&lt;/p&gt;
+
+&lt;p&gt;As for the demo, you can play it &lt;a href=&quot;https://maestrojg.itch.io/katt-viteza-and-the-metallic-menace-prologue&quot;&gt;here&lt;/a&gt;. Of course, it’s quite rough around the edges, but it should get across
+the kind of game we were going for.&lt;/p&gt;
+
+&lt;p&gt;This is Jack Gilmartin signing off.&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">Well, it’s only a few days before our deadline, which according to our brief is Monday, September 2nd, at 9AM. So there’s no time to waste, let’s talk about what we’ve been up to this past week.</summary></entry><entry><title type="html">Entry 19 - The Penultimate Post</title><link href="http://localhost:4000/jack/2019-08-23-entry-xix/" rel="alternate" type="text/html" title="Entry 19 - The Penultimate Post" /><published>2019-08-23T00:00:00+08:00</published><updated>2019-08-23T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xix</id><content type="html" xml:base="http://localhost:4000/jack/2019-08-23-entry-xix/">&lt;p&gt;Not much to say this week as I’ve been out of town for much of it.&lt;/p&gt;
+
+&lt;h1 id=&quot;projectile-direction-issues&quot;&gt;Projectile Direction Issues&lt;/h1&gt;
+
+&lt;p&gt;Apart from planning the final preparations for the game this week, I fixed the blaster so that it will always fire
+from the direction that Katt is slanted at. It turns out the solution was incredibly simple and something I had forgotten
+about completely: Transform.right, The X axis of a transform. Using this, since the blaster is parented to Katt, 
+projectiles will always fire toward whatever her sprite is facing, be she facing right, left, up or down. As a 
+result, Katt’s blaster is now fully functional!&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-19-projectile-angles.png&quot; alt=&quot;Projectile Directions&quot; class=&quot;lead&quot; /&gt;
+The different angles Katt can fire her blaster at.&lt;/p&gt;
+
+&lt;p&gt;That’s all for this week, next week is the final week for this project, so it’s going to be quite a busy one for us.
+Wish us luck!&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">Not much to say this week as I’ve been out of town for much of it.</summary></entry><entry><title type="html">Entry 18 - Orienteering</title><link href="http://localhost:4000/jack/2019-08-16-entry-xviii/" rel="alternate" type="text/html" title="Entry 18 - Orienteering" /><published>2019-08-16T00:00:00+08:00</published><updated>2019-08-16T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xviii</id><content type="html" xml:base="http://localhost:4000/jack/2019-08-16-entry-xviii/">&lt;p&gt;This week I’ve managed to fix the rotation issue I had been having with Katt before we took our break. More below.&lt;/p&gt;
+
+&lt;h1 id=&quot;handling-an-airborne-katts-rotation&quot;&gt;Handling an airborne Katt’s rotation.&lt;/h1&gt;
+
+&lt;p&gt;As I mentioned previously I had an issue where Katt would remain slanted at a slope’s angle even if she jumped
+off said slope. I had implemented a method to revert Katt to a neutral rotation upon becoming airborne, but it didn’t
+seem to be affecting anything. I soon realised that I had set it so that Katt should rotate by my “orientationH”
+value, which could be either 0 or -180. I realised that rotating by 0 would obviously have no effect. I soon fixed
+the issue and now Katt appears upright in mid-air as she should.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-18-revert-rotation-method.png&quot; alt=&quot;Revert Rotation Method&quot; class=&quot;lead&quot; /&gt;
+The old method (top) and the new improved method (bottom).&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-18-method-in-action.png&quot; alt=&quot;Method in Action&quot; class=&quot;lead&quot; /&gt;
+An explanation of what I mean when I want Katt to stand upright when airborne.&lt;/p&gt;
+
+&lt;h1 id=&quot;katts-new-blaster&quot;&gt;Katt’s New Blaster&lt;/h1&gt;
+
+&lt;p&gt;We had a basic projectile firing system implemented previously, but it was quite basic. This week I started 
+improving the implementation of Katt’s blaster by giving it a sprite and ensuring shots fired spawn in their 
+appropriate place. I also made the bullets smaller to fit the blaster sprite’s size. Here’s a closer look.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-18-katt-blaster.png&quot; alt=&quot;Katt's Blaster&quot; class=&quot;lead&quot; /&gt;
+Katt’s blaster.&lt;/p&gt;
+
+&lt;p&gt;For a long while the weapon fire mechanic would not work with the newer “s_katt” model I had been working with, 
+projectiles wouldn’t fire, though they would fire if I used the older “proto_katt” model. First I realised that
+the bullet sprite’s draw order was 0, meaning that every other sprite (including the backgrounds) would be drawn
+in front of it, rendering it invisible. After altering this value, I noticed the projectile would only appear 
+briefly when fired. Soon the reason dawned on me: s_katt’s got sensors on either side of her, the projectile would
+hit the hitbox of one of these sensors and  disappear as soon as it spawned. Fixing the issue was simple enough, 
+just a case of ensuring in code that no projectile would collide with any object tagged “Sensor”.&lt;/p&gt;
+
+&lt;p&gt;It took some fiddling to get the blaster to keep its orientation synced up with Katt’s so that it’s always firing
+in the right direction. I’m still working at it because currently I have an issue where jumping for some reason 
+throws the blaster’s rotation out of sync with Katt’s rotation, which can cause bullets to fire behind her. Once
+I’ve fixed this issue I then want to ensure projectiles fire from the direction that Katt is slanted at.&lt;/p&gt;
+
+&lt;p&gt;As an aside, I also want to mention that I have merged all of the old movement script’s functionality into my S 
+Movement script, rendering the old one defunct.&lt;/p&gt;
+
+&lt;p&gt;That’s all for this week, next week I’ll be continuing work on movement and hopefully fixing the blaster’s 
+projectile direction issue. Wish me luck! Only two weeks to go!&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">This week I’ve managed to fix the rotation issue I had been having with Katt before we took our break. More below.</summary></entry><entry><title type="html">Entry 17 - Katt Returns</title><link href="http://localhost:4000/jack/2019-08-09-entry-xvii/" rel="alternate" type="text/html" title="Entry 17 - Katt Returns" /><published>2019-08-09T00:00:00+08:00</published><updated>2019-08-09T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xvii</id><content type="html" xml:base="http://localhost:4000/jack/2019-08-09-entry-xvii/">&lt;p&gt;This week we’ve returned to our work on Project V. More below.&lt;/p&gt;
+
+&lt;h1 id=&quot;our-focus&quot;&gt;Our Focus&lt;/h1&gt;
+
+&lt;p&gt;With three weeks remaining until our deadline, we’ve decided that we should focus on creating one level for &lt;em&gt;Katt 
+Viteză&lt;/em&gt;. One that will showcase what we wanted to get across through gameplay and certain game mechanics. It’ll 
+be a tight time limit, but we should have something we can present in early September. For this reason, the 
+version of the game we’ll be presenting will be titled &lt;em&gt;Katt Viteză and the Metallic Menace: Demo Version&lt;/em&gt;.
+Take a look at our prototype cover art below.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-17-prototype-title-art.png&quot; alt=&quot;Prototype Title Art&quot; class=&quot;lead&quot; /&gt;
+The prototype title art. It’s used as the cover image for the game on Itch.io. More info below.&lt;/p&gt;
+
+&lt;h1 id=&quot;katts-itchio-page&quot;&gt;Katt’s Itch.io Page&lt;/h1&gt;
+
+&lt;p&gt;In preparation for upload at the end of the month, I have prepared the &lt;a href=&quot;https://itch.io/&quot;&gt;Itch.io&lt;/a&gt; page for our
+game. At the moment, it is still being edited and it not yet visible to the public since there is no executable 
+attached to the page yet. I’m happy with it so far and I will no doubt make small edits in the run-up to upload.
+It’s just good to have it at the ready for when the time comes. For now, our game’s Itch.io page can be seen in
+the screenshot below.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-17-web-page.png&quot; alt=&quot;Itch.io Page&quot; class=&quot;lead&quot; /&gt;
+Our Itch.io page in its current form. Quite a useful site for indie game developers!&lt;/p&gt;
+
+&lt;p&gt;That’s all for this week, it was mostly us getting back into the swing of things. Next week I hope to make some 
+major improvements on Katt’s movement script. Wish us lots of luck in the weeks ahead!&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">This week we’ve returned to our work on Project V. More below.</summary></entry><entry><title type="html">Entry 16 - Vacation</title><link href="http://localhost:4000/jack/2019-07-26-entry-xvi/" rel="alternate" type="text/html" title="Entry 16 - Vacation" /><published>2019-07-26T00:00:00+08:00</published><updated>2019-07-26T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xvi</id><content type="html" xml:base="http://localhost:4000/jack/2019-07-26-entry-xvi/">&lt;p&gt;With a lot of us heading to and fro, visiting friends and relatives around this time, we felt that we should take a
+break from Project V for a bit. After all, a bit of R&amp;amp;R can be vital to someone’s productivity.&lt;/p&gt;
+
+&lt;p&gt;To that end, we’ll be taking this week and the next off. The next blog post’ll be for the 9th of August!&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">With a lot of us heading to and fro, visiting friends and relatives around this time, we felt that we should take a break from Project V for a bit. After all, a bit of R&amp;amp;R can be vital to someone’s productivity.</summary></entry><entry><title type="html">Entry 15 - A New Tactic</title><link href="http://localhost:4000/jack/2019-07-19-entry-xv/" rel="alternate" type="text/html" title="Entry 15 - A New Tactic" /><published>2019-07-19T00:00:00+08:00</published><updated>2019-07-19T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xv</id><content type="html" xml:base="http://localhost:4000/jack/2019-07-19-entry-xv/">&lt;p&gt;This week I decided to look into an alternate method of checking surface angles. I’ve had success with this new method,
+as opposed to the custom tilemap method I’ve referred to earlier. I’ll elaborate further below.&lt;/p&gt;
+
+&lt;h1 id=&quot;issues-arise-in-visual-studio&quot;&gt;Issues Arise in Visual Studio&lt;/h1&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-15-vs-issues.png&quot; alt=&quot;Visual Studio Issues&quot; class=&quot;lead&quot; /&gt;
+A myriad of issues I encountered upon opening Visual Studio this week.&lt;/p&gt;
+
+&lt;p&gt;Before I had a chance to try this new approach however, I encountered a number of issues in Visual Studio. 
+I couldn’t load Project Viteză, or any project for that matter, Unity or not. I was stumped as to what to do, I 
+couldn’t find much assistance online, apart from mentions of updating VS. I decided that updating VS was the best 
+course of action.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-15-vs-fixed.png&quot; alt=&quot;Visual Studio Fixed&quot; class=&quot;lead&quot; /&gt;
+The Update process, thankfully it served my purposes.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, an update was the fix for this issue. I would have been quite stuck if I couldn’t eliminate this issue
+fast.&lt;/p&gt;
+
+&lt;h1 id=&quot;raycast-normal-method&quot;&gt;Raycast-Normal Method&lt;/h1&gt;
+
+&lt;p&gt;After some research on using raycasts to detect vector normals, I implemented a simple raycast that shoots from
+Katt’s feet to the ground below her. This raycast then detects the normal of the platform she’s on and adjusts Katt’s
+angle to the angle found by the detected normal. This simple method has given me much more success than the Tilemap
+method, and so I removed the custom tiles and brushes from the project since they were no longer needed. A lot of 
+improvements will need to be made to this raycast system, but I am confident that I can finally move forward with 
+it and implement more features into the movement script. The images below will demonstrate the method.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-15-groundray-methods.png&quot; alt=&quot;Groundray Methods&quot; class=&quot;lead&quot; /&gt;
+The basic methods to achieve this functionality.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-15-raycast.png&quot; alt=&quot;Raycast in Action&quot; class=&quot;lead&quot; /&gt;
+The raycast (yellow) changing Katt’s angle.&lt;/p&gt;
+
+&lt;p&gt;That’s it for this week, a lot more tweaks will be needed to improve this functionality, but I feel this is a good 
+start. The first issue I’d like to fix is to get Katt to revert her rotation upon becoming airborne again, at the moment
+she remains at the angle of the previous normal she detected until she’s detected a new normal.&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">This week I decided to look into an alternate method of checking surface angles. I’ve had success with this new method, as opposed to the custom tilemap method I’ve referred to earlier. I’ll elaborate further below.</summary></entry><entry><title type="html">Entry 14 - Animation Prototyping</title><link href="http://localhost:4000/jack/2019-07-12-entry-xiv/" rel="alternate" type="text/html" title="Entry 14 - Animation Prototyping" /><published>2019-07-12T00:00:00+08:00</published><updated>2019-07-12T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xiv</id><content type="html" xml:base="http://localhost:4000/jack/2019-07-12-entry-xiv/">&lt;p&gt;This week I was successful in creating a prototype animation state machine for Katt. It was a simple enough affair
+as I had some experience making one in the last Global Game Jam. Here’s a quick look at the state machine in its 
+current form.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-14-animation-state-machine.png&quot; alt=&quot;Proto-State Machine&quot; class=&quot;lead&quot; /&gt;
+Katt’s animation state machine at the moment. Of course it’ll need various tweaks and additions down the line.&lt;/p&gt;
+
+&lt;p&gt;I’ve tested the state machine in-game and it seems to change animations according to when I want them to change.
+There will be certain things I will need to adjust or fix later on, though I will likely leave it until the final
+animations are in as it will be much easier to test them. At the moment it can be hard to differentiate the animations
+by a change in colour alone.&lt;/p&gt;
+
+&lt;p&gt;I’ve added this new animated Katt to each of our test scenes. In the Movement Test Scene I’ve added the new Katt 
+alongside the old Katt, so that the others can continue working with the other Katt object if they so wish. To this
+end, I’ve added a function to the camera follow script that allows it to find the object in the scene containing 
+the name “katt” and set it as the object to follow. Now, whoever wants to test a particular Katt can simply deactivate 
+the other Katt and the camera will automatically follow the one remaining.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-14-twin-katts.png&quot; alt=&quot;Twin Katts&quot; class=&quot;lead&quot; /&gt;
+The old Katt gameobject (original colour) alongside the animated Katt gameobject (blue).&lt;/p&gt;
+
+&lt;p&gt;That’s all for this week, apart from working on the animation state machine I’ve continued to search for answers on
+the Tilemap issue, but to no avail. However, I have heard from a friend that using raycasts with normals may be an
+alternative to my angle tile idea. This’ll require further investigation.&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">This week I was successful in creating a prototype animation state machine for Katt. It was a simple enough affair as I had some experience making one in the last Global Game Jam. Here’s a quick look at the state machine in its current form.</summary></entry><entry><title type="html">Entry 13 - Main Menu Additions</title><link href="http://localhost:4000/jack/2019-07-05-entry-xiii/" rel="alternate" type="text/html" title="Entry 13 - Main Menu Additions" /><published>2019-07-05T00:00:00+08:00</published><updated>2019-07-05T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xiii</id><content type="html" xml:base="http://localhost:4000/jack/2019-07-05-entry-xiii/">&lt;p&gt;This week I decided to look into adding graphics options to my options menu, as I was quite fatigued with my tilemap
+roadblock. More below.&lt;/p&gt;
+
+&lt;h1 id=&quot;graphics-quality--resolution-options&quot;&gt;Graphics Quality &amp;amp; Resolution Options&lt;/h1&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-13-new-options.png&quot; alt=&quot;New Video Options&quot; class=&quot;lead&quot; /&gt;
+A showcase of the new video options I’ve added to my options menu.&lt;/p&gt;
+
+&lt;p&gt;First off, I added a drop-down for Graphics quality. This was a simple enough affair as changing the game’s graphics
+quality is a simple line of code in Unity. The most I had to do was ensure that my drop-down options exactly 
+matched those in Unity’s built-in quality presets (“Very Low”, “Low”, “Medium”, “High”, “Very High” and “Ultra”.
+these presets can be found in Unity’s Quality settings). Implementing the manipulation of this drop-down with 
+controller input was a simple enough operation too.&lt;/p&gt;
+
+&lt;p&gt;Next, I added a drop-down menu for changing the game’s resolution. I have it set up so that an array of resolutions
+is automatically filled by all of the resolution settings made available by Unity. Each resolution is then iterated
+through, converted into a string and added as an option to the resolution drop-down. I also have it set so that 
+Unity detects the monitor’s current resolution and sets it accordingly. While you can select a resolution with the
+controller, unfortunately I can’t scroll the drop-down up or down with the controller at the minute. For now, scrolling
+with the mouse is necessary. While testing the resolution changes in a built version of the game, an old issue has
+reared its ugly head:&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-13-resolution-issue.png&quot; alt=&quot;Resolution Issue&quot; class=&quot;lead&quot; /&gt;
+Despite having my UI settings set as recommended (mentioned in &lt;a href=&quot;https://teamviteza.github.io/jack/2019-05-24-entry-vii/&quot;&gt;week seven&lt;/a&gt;), this issue still plagues me.&lt;/p&gt;
+
+&lt;p&gt;I thought that I had set my UI to appear the same way on whatever screen it’s displayed on. This is not the case. 
+I’m stumped as to what I should do. I may need to seek assistance from someone about it.&lt;/p&gt;
+
+&lt;h1 id=&quot;a-start-on-prototype-animations&quot;&gt;A Start on Prototype Animations&lt;/h1&gt;
+
+&lt;p&gt;Aside from the new menu options, this week I made a start on implementing prototype animations for Katt. My plan is to
+add in animation states for Katt, so that the states will be coded and ready for Will when he creates the animation
+sprites and adds them in. For now, I’ve created prototype animations sprites by simply recolouring Katt’s idle sprite.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-13-prototype-animations.png&quot; alt=&quot;Prototype Animation Sprites&quot; class=&quot;lead&quot; /&gt;
+A quick look at the test animations I’ve added in.&lt;/p&gt;
+
+&lt;p&gt;That’s about it for this week. Next week I hope to finish off the implementation for Katt’s animation state machine.&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">This week I decided to look into adding graphics options to my options menu, as I was quite fatigued with my tilemap roadblock. More below.</summary></entry><entry><title type="html">Entry 12 - Tilemap Troubleshooting</title><link href="http://localhost:4000/jack/2019-06-28-entry-xii/" rel="alternate" type="text/html" title="Entry 12 - Tilemap Troubleshooting" /><published>2019-06-28T00:00:00+08:00</published><updated>2019-06-28T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xii</id><content type="html" xml:base="http://localhost:4000/jack/2019-06-28-entry-xii/">&lt;p&gt;This week I continued to look into the possibility of getting Unity to generate a tilemap made up of my custom 
+“AngleTiles”. More below.&lt;/p&gt;
+
+&lt;h1 id=&quot;angle-tile&quot;&gt;Angle Tile&lt;/h1&gt;
+
+&lt;p&gt;After having installed Unity’s 2D extras into the project, I decided to study their scripts to see how they were 
+able to hook into Unity’s Editor and appear as custom Tiles and Brushes in the Tilemap Editor. The scripts didn’t 
+seem much different from the script I based my “AngleTile” script on (The “AcidTile” script seen in this &lt;a href=&quot;https://youtu.be/C_zKWMzJNLY&quot;&gt;video&lt;/a&gt; I 
+mentioned last week). Around this time I was getting a number of errors with my angle tile script, with various 
+names and classes not being recognised.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-12-angletile-errors.png&quot; alt=&quot;Angle Tile Errors&quot; class=&quot;lead&quot; /&gt;
+A lot of class names seemed to be missing or unrecognised by my script, not mentioned in the video I used for reference.&lt;/p&gt;
+
+&lt;p&gt;After seeing no difference in Unity’s add-on tilemap scripts, I eventually noticed that those scripts were in 
+their own “Tilemap” directory within the main Assets folder. I realised that the scripts inside this Tilemap folder
+were each within their own folder called “Editor”. I knew that certain scripts will only work if they are within a
+folder of a particular name, like “Assembly” or, as previously mentioned, “Editor”. I decided to try placing my 
+scripts for the angle tile and the angle brush into a similar directory to Unity’s chosen directory, thinking this 
+might rectify some of the errors in my scripts.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-12-tile-directory.png&quot; alt=&quot;A Uniform Directory&quot; class=&quot;lead&quot; /&gt;
+My attempt to ensure my scripts were in the proper directory, by keeping them uniform with Unity’s tilemap directories.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately this change in directory has not helped me rectify the issues with my script, I’m afraid I’ll have 
+to keep looking into it.&lt;/p&gt;
+
+&lt;h1 id=&quot;weapon-fire-fixes&quot;&gt;Weapon Fire Fixes&lt;/h1&gt;
+
+&lt;p&gt;During the week Adrian came to me with an issue regarding his weapon fire script: Katt would only shoot to the 
+right of the screen, even if she was facing to the left. It took some analysis of his scripts first, but it was 
+simple enough to tidy up his existing code and make use of some bools and if checks to fix the issue. I also made 
+sure that his script referenced the inputs I had set up in &lt;a href=&quot;https://teamviteza.github.io/jack/2019-05-17-entry-vi/&quot;&gt;week six&lt;/a&gt;.
+The weapon will now fire in the direction Katt is facing, but only in an arc parallel to the ground. The next step 
+is to get her to fire bullets from whichever angle she’s slanted at (for example, she would fire bullets at a 45 
+degree angle while she’s travelling up a 45 degree angle slope.)&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-12-weapon-fire-improved.png&quot; alt=&quot;Weapon Fire Improvements&quot; class=&quot;lead&quot; /&gt;
+A sample of some of the fixes I made to the weapon fire script.&lt;/p&gt;
+
+&lt;p&gt;That’s all for this week, next week hopefully I can finally figure out this tilemap puzzle.&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">This week I continued to look into the possibility of getting Unity to generate a tilemap made up of my custom “AngleTiles”. More below.</summary></entry><entry><title type="html">Entry 11 - Katt Viteză and the Tilemap Conspiracy</title><link href="http://localhost:4000/jack/2019-06-21-entry-xi/" rel="alternate" type="text/html" title="Entry 11 - Katt Viteză and the Tilemap Conspiracy" /><published>2019-06-21T00:00:00+08:00</published><updated>2019-06-21T00:00:00+08:00</updated><id>http://localhost:4000/jack/entry-xi</id><content type="html" xml:base="http://localhost:4000/jack/2019-06-21-entry-xi/">&lt;p&gt;As I was working on the new movement script for Katt this past week, I came across an issue: I wanted Katt to 
+stand at an angle appropriate to the surface she’s standing on. (For example, her sprite would be tilted 45 
+degrees while standing on a 45 degree slope.) How could I get her to do this?&lt;/p&gt;
+
+&lt;p&gt;Around the same time I was working on adding a tilemap to my scene, where I could load in a tilesheet of sprites
+and paint the tiles onto the scene. The tilesheet I used can be seen below.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-11-snow-tilesheet.png&quot; alt=&quot;Snow Tilesheet&quot; class=&quot;lead&quot; /&gt;
+The test tilesheet I’m using to layout the test level.&lt;/p&gt;
+
+&lt;h1 id=&quot;scriptable-objects&quot;&gt;Scriptable Objects&lt;/h1&gt;
+
+&lt;p&gt;When I read in the Sonic Physics Guide that each tile in the Sonic games has a height value associated with it, 
+I sought a way to set an angle value for each tile displaying a sloped surface. Katt would then read the angle 
+value of the tile she stepped on and tilt to that corresponding angle. I wondered how I could apply values to 
+built-in objects like Tiles, from research online I came across “Scriptable Objects” in Unity. These are data
+containers you can apply variables to, regardless of classes. You can create them as a custom asset and apply
+them to elements like tiles and brushes, or other objects you couldn’t customise otherwise in Unity. I created
+my own ScriptableObject I called “AngleTile”, simply so that the tiles in my tilesheet could hold an angle value.&lt;/p&gt;
+
+&lt;p&gt;Scriptable objects were a concept I hadn’t heard of before in Unity, so throughout the week I spent time 
+watching Unity lectures and other informative videos on the subject.&lt;/p&gt;
+
+&lt;h3 id=&quot;here-are-some-of-the-videos-i-watched&quot;&gt;Here are some of the videos I watched:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/9gscwiS3xsU&quot;&gt;Live Training 16th February 2016 - Introduction to Scriptable Objects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/VV0NgnztIQg&quot;&gt;Creating Your First Scriptable Brush and Scriptable Tile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/C_zKWMzJNLY&quot;&gt;Unity 2D Preview Tilemap Tutorial - Scriptable Tile and Tilebrush&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After watching these videos I still wasn’t entirely clear on how I could tell Unity I wanted to generate a tilemap
+made up of my own custom AngleTiles. Despite watching them thoroughly and re-watching at points, the videos never
+seemed to explicitly state how to generate a custom tilemap, the demonstators always seemed to have their custom
+tilemaps at the ready beforehand. I figured that a good option might be to install Unity’s &lt;a href=&quot;https://github.com/Unity-Technologies/2d-extras&quot;&gt;“2D Extras”&lt;/a&gt;
+into the project. These extras are found on GitHub (mentioned in the second video listed above).&lt;/p&gt;
+
+&lt;p&gt;After installing the custom tiles and brushes into the project and looking at their scripts I found no further 
+clarity on my question unfortunately, so I decided to pose said &lt;a href=&quot;https://answers.unity.com/questions/1642348/can-i-generate-a-tile-palette-made-up-of-customscr.html&quot;&gt;question&lt;/a&gt;
+on Unity Answers and see if anyone else could assist.&lt;/p&gt;
+
+&lt;p class=&quot;figure&quot;&gt;&lt;img src=&quot;/assets/img/post_images/jack_images/week-11-burning-question.png&quot; alt=&quot;Burning Question&quot; class=&quot;lead&quot; /&gt;
+The question I posed on Unity Answers, will someone know the answer?&lt;/p&gt;
+
+&lt;p&gt;Here’s hoping I can get some clarification on this issue, it’s quite an obscure one, throughout the week I felt 
+like I was getting to the bottom of some conspiracy. That’s all for this week, wish me luck in finding my answer!&lt;/p&gt;
+
+&lt;p&gt;‘Til next time!&lt;/p&gt;</content><author><name>Jack Gilmartin</name><email>jack.gilmartin77@gmail.com</email></author><summary type="html">As I was working on the new movement script for Katt this past week, I came across an issue: I wanted Katt to stand at an angle appropriate to the surface she’s standing on. (For example, her sprite would be tilted 45 degrees while standing on a 45 degree slope.) How could I get her to do this?</summary></entry></feed>

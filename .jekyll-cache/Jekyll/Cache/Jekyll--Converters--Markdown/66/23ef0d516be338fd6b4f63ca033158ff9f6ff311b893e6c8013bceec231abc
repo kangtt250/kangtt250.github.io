@@ -1,0 +1,76 @@
+I"�<p>This chapter shows how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack.</p>
+
+<h2 class="no_toc" id="table-of-contents">Table of Contents</h2>
+<ol id="markdown-toc">
+  <li><a href="#via-starter-kit" id="markdown-toc-via-starter-kit">Via Starter Kit</a></li>
+  <li><a href="#via-gem" id="markdown-toc-via-gem">Via gem</a></li>
+  <li><a href="#via-zip" id="markdown-toc-via-zip">Via zip</a></li>
+  <li><a href="#via-git" id="markdown-toc-via-git">Via git</a></li>
+  <li><a href="#pro-version" id="markdown-toc-pro-version">PRO Version</a>    <ol>
+      <li><a href="#pro-via-github-advanced" id="markdown-toc-pro-via-github-advanced">PRO via GitHub (advanced)</a></li>
+    </ol>
+  </li>
+</ol>
+
+<p class="message"><strong>NOTE</strong>: Before upgrading to v7+, make sure you’ve read the <a href="../CHANGELOG.md" class="heading flip-title">CHANGELOG</a>,
+especially the part about the <a href="../CHANGELOG.md#license-change">license change</a>!</p>
+
+<h2 id="via-starter-kit">Via Starter Kit</h2>
+<p>When using the Starter Kit, upgrading Hydejack is as simple as setting the <code class="language-plaintext highlighter-rouge">remote_theme</code> key in <code class="language-plaintext highlighter-rouge">config.yml</code> to the desired version.</p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">remote_theme</span><span class="pi">:</span> <span class="s">qwtel/hydejack@v8.4.0</span>
+</code></pre></div></div>
+
+<p>To use the latest version on the <code class="language-plaintext highlighter-rouge">v8</code> branch on each build, you can use  <code class="language-plaintext highlighter-rouge">qwtel/hydejack@v8</code>.</p>
+
+<h2 id="via-gem">Via gem</h2>
+<p>Upgrading the gem-based theme is as easy as running</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle update jekyll-theme-hydejack
+</code></pre></div></div>
+
+<h2 id="via-zip">Via zip</h2>
+<p>Upgrading via zip is a bit of a dark art, specially if you’ve made changes to any source files,
+and the prime reason why I suggest using the gem-based version of the theme.</p>
+
+<p>Generally, you’ll want to copy these files and folders:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_includes/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_sass/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">assets/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile.lock</code></li>
+</ul>
+
+<p>and merge them with your existing folder. However, you’ll also want to check out <code class="language-plaintext highlighter-rouge">_data</code> and <code class="language-plaintext highlighter-rouge">_config.yml</code> for any changes
+and read latest entries to the <a href="../CHANGELOG.md" class="heading flip-title">CHANGELOG</a>.</p>
+
+<p class="message"><strong>NOTE</strong>: If you’ve modified any of Hydejack’s internal files, your changes will most likely be overwritten
+and you have to apply them again.
+Make sure you’ve made a backup before overwriting any files.</p>
+
+<h2 id="via-git">Via git</h2>
+<p>The latest version sits on the <code class="language-plaintext highlighter-rouge">master</code> branch of <a href="https://github.com/qwtel/hydejack">qwtel/hydejack</a>.
+To apply them to your repository run</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git remote add hydejack git@github.com:qwtel/hydejack.git
+<span class="nv">$ </span>git pull hydejack master
+</code></pre></div></div>
+
+<h2 id="pro-version">PRO Version</h2>
+<p>Buyers of the PRO version will find the files necessary for an upgrade in the <code class="language-plaintext highlighter-rouge">upgrade</code> folder of the downloaded zip archive.</p>
+
+<p class="message"><strong>NOTE</strong>: If you’ve modified any of Hydejack’s internal files, your changes will most likely be overwritten
+and you have to apply them again.
+Make sure you’ve made a backup before overwriting any files.</p>
+
+<h3 id="pro-via-github-advanced">PRO via GitHub (advanced)</h3>
+<p>If you’ve followed the steps <a href="install.md#pro-via-github-advanced">here</a>, all you need to upgrade is:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle update jekyll-theme-hydejack-pro
+</code></pre></div></div>
+
+<p class="read-more">Continue with <a href="config.md" class="heading flip-title">Config</a></p>
+:ET

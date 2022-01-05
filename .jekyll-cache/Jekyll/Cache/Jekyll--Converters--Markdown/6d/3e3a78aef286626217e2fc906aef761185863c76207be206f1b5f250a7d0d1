@@ -1,0 +1,4 @@
+I"3<p>As I was working on the new movement script for Katt this past week, I came across an issue: I wanted Katt to 
+stand at an angle appropriate to the surface she’s standing on. (For example, her sprite would be tilted 45 
+degrees while standing on a 45 degree slope.) How could I get her to do this?</p>
+:ET

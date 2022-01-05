@@ -1,0 +1,49 @@
+I"A<p>This week’s been a mixed one, in truth. It was devoted to creating a stage background for my level, one that looked
+appropriate and would be easily understood by the player when they perceive it. I’ve had some small successes, and 
+I now have a parallax scrolling background for my level. That being said, my severe lack of skills when it comes 
+to creating digital art (as well as traditional art) has me feeling that my background could be made a lot better.</p>
+
+<h1 id="parallax-scrolling">Parallax Scrolling</h1>
+
+<p>My first task in this endeavour was to find out how to achieve parallax scrolling for my level’s background. After
+some searching, I found some resources online that helped me achieve this. I also found a sample background I 
+could use for testing. It can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-8-sample-background.png" alt="Sample Background" class="lead" />
+The Sample Background for use with this <a href="https://youtu.be/zit45k6CUMk">Parallax tutorial</a> from <a href="https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ/about">Dani</a>. Thanks Dani!</p>
+
+<p>Getting the parallax scrolling working was a simple enough affair, but there’s still an element missing. With the
+sample I tested, it is intended for the background to be parented to the scene’s camera. This has the unfortunate
+side-effect of having the background staying on the same elevation no matter how far up or down the player has 
+travelled through the stage (since the background is always following the camera). I took a long hard look at
+how backgrounds are handled in games like <em>Sonic</em> and <em>Freedom Planet</em>. From what I’ve found, even the first
+Sonic game had its backgrounds changing their elevation according to the height the player is at in the 
+level. To better illustrate what I mean, take a look at the image below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-8-elevation-example.png" alt="BG Elevation Example" class="lead" />
+In these screenshots from the original Sonic, take a look at the orange line I’ve placed atop the mountain in the background. Here we can see that the background’s elevation has increased from the first image to the next.</p>
+
+<p>For now, I’ve decided to un-parent the background from the Unity camera and extend the background’s verticality.
+Now the background will remain at a fixed elevation while still scrolling left and right as the player progresses
+through the stage. In future, if I can think up a better solution for the background, I will add it to my scene.
+For now, this current solution should suffice.</p>
+
+<h1 id="creating-a-new-background">Creating a New Background</h1>
+
+<p>Despite my aformentioned lack of art skills, I endeavoured to create my own stage background this week. I created it
+in <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator">Adobe Illustrator</a> using the sample background parallax 
+background mentioned above as a reference. Not much to mention here, getting the rough shape was easy enough,
+the hardest part was making the images completely transparent by removing all the remaining white pixels 
+that MS Paint couldn’t get rid of. The finished product can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-8-proto-background.png" alt="Proto-background" class="lead" />
+My prototype background. It’s not much, but it should do the trick for now.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-8-proto-elevation.png" alt="Proto-background" class="lead" />
+A sample of the background’s elevation changing in-game. Not final by any means, but good for testing.</p>
+
+<p>That’s all for this week, next week I want to get back to coding because, for myself, doing art is arduous and 
+unsatisfactory.</p>
+
+<p>‘Til next time.</p>
+:ET

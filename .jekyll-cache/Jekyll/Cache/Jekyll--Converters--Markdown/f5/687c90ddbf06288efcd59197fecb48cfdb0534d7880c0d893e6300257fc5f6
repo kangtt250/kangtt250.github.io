@@ -1,0 +1,40 @@
+I"�	<p>This past week we’ve designated as holidays on account of the Easter break, I think we needed one
+since it hasn’t been long since the end of our semester. Regardless I did manage to get a little 
+bit more of the main menu done.</p>
+
+<h1 id="scrolling-background-image">Scrolling Background Image</h1>
+
+<p>To give the main menu less of a “static” quality, I wanted to implement a scrolling background
+to give the player the impression that the game was active. After some research on the simplest
+way of achieving this, I created a quad object and applied the background I wanted to scroll as the
+quad’s material. Then I made it so that the quad material’s offset is continuously being moved to the
+bottom right of the screen. A simple enough operation, but it has already greatly enhanced the menu’s
+presentation.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-3-scrolling-bg.png" alt="Scrolling Background" class="lead" />
+This transparent background scrolls in the main menu’s background.</p>
+
+<h1 id="options-and-quit-sub-menus">Options and Quit Sub-menus</h1>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-3-options-screen.png" alt="Game Options" class="lead" />
+The options screen, quite simple for now.</p>
+
+<p>I also took some time this week to create the options menu and the quit menu.
+For now, our options menu will simply allow the player to adjust the master 
+volume, along with the BGM and SFX volumes individually. In terms of graphics settings, all we will 
+have for now will be a fullscreen toggle, since graphics settings are not often altered as much for 
+2D games. If we want to add more later on it’s a simple matter of adding the extra options.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-3-quit-screen.png" alt="Quit Screen" class="lead" />
+The quit screen.</p>
+
+<p>I’ve also added in the quit screen, this prompt will appear when the player has selected “quit” on the 
+main menu. This ensures that the player doesn’t quit accidentally. I’ve also ensured that the first 
+highlighted option is “no”, this is common UX feature preventing the player from accidentally selecting
+destructive options.</p>
+
+<p>That’s about it for this week, as for the next week, I plan to have the main menu UI completely finished and
+coded. After that I can move on to collectibles implementation as well as saving and loading.</p>
+
+<p>‘Til next time.</p>
+:ET

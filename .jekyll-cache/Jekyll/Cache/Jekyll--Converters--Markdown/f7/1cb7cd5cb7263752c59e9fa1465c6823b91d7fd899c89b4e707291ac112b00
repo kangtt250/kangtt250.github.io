@@ -1,0 +1,43 @@
+I"\<p>This week was mostly research and set-up for the new movement system I wanted to implement for the game. My
+attention was brought to a site named <a href="https://sonicretro.org/">Sonic Retro</a>, a fansite for the Sonic the Hedgehog
+franchise. On this site in particular was a <a href="http://info.sonicretro.org/Sonic_Physics_Guide">physics guide</a> with information as 
+to how physics are calculated in the classic Sonic games. I decided to read up on this guide as it may provide assistance in 
+implementing the movement system for our game, since it is inspired by the early Sonic games.</p>
+
+<h1 id="new-movement-script-and-sensor-setup">New Movement Script and Sensor Setup</h1>
+
+<p>After reading up on the aforementioned physics guide I created a new movement script for Katt I named “S Movement”
+(“S” being short for Sonic, since with this I hope to implement a movement system similar to Sonic’s using this script).
+This script will take a lot of setup so I currently have the existing “Player Movement” script working in tandem 
+with this one until I can test movement fully using “S Movement” as well. If all goes well, this new script will 
+keep track of numerous variables, like Katt’s acceleration, angle, etc, while also keeping track of whether Katt’s
+running on a wall or running upside-down. I’d also like to get the script to keep Katt attached to the ground as 
+she moves (currently her momentum can cause her to hop off the ground now and then).</p>
+
+<p>As part of the setup for this script I have given Katt new “Sensor” objects, these are simply colliders that tell
+the movement script what the sensors are touching. I added these to emulate Sonic’s sensor system. Take a look at
+the image below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-10-sensor-showcase.png" alt="Sensor Showcase" class="lead" />
+On the left is Katt and her current sensors, on the right is Sonic and his sensors. I found the image of Sonic’s sensors on the Sonic Physics Guide.</p>
+
+<p>As seen above Sonic had 6 sensors (A through F) used to detect whether or not he was touching the floor or 
+the ceiling, allowing his behaviour and abilities to change accordingly. So far I have set up four sensors
+(A through D) for Katt. I will likely add the last two if I am successful with the first four.</p>
+
+<p>An example of how the sensors can affect behaviour: In the original Sonic, if sensor A (right foot) detected ground
+while sensor B (left foot) detected no ground, Sonic’s idle animation would be replaced with his leaning animation,
+since the game has determined that he is standing on the edge of a platform.</p>
+
+<h1 id="aside">Aside</h1>
+
+<p>Apart from reading up on the Sonic physics, I tidied up the project’s folder structure and added a physics material
+asset I called the “Sheer Wall” physics material. Physics materials can be placed on any object, allowing you to alter
+two parameters: “Friction” and “Bounciness”. By setting both of these parameter’s values to “0” I have solved an
+issue where Katt would stick to a wall if the player continued moving her into said wall while she is airborne. 
+Now, she will slide off walls naturally after colliding with them, regardless of the player’s input.</p>
+
+<p>Next week I hope to continue working on Katt’s new movement script, wish me luck!</p>
+
+<p>‘Til next time!</p>
+:ET

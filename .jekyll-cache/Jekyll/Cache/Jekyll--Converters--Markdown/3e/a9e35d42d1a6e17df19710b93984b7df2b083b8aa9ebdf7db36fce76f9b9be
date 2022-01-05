@@ -1,0 +1,53 @@
+I"�<p>This week’s been a small one for myself, as I’ve been visiting relatives out of town for a few days.
+As a result, I’ve only had time this week to try to fix some issues that remained on my UI scene. Let’s get into it.</p>
+
+<h1 id="screen-shenanigans">Screen Shenanigans</h1>
+
+<p>A particularly annoying issue I’ve discovered with my UI is that, if my main menu panel is too far off-screen 
+(or if the Unity game window isn’t the right size) when the game starts, I get an IndexOutOfRange exception.
+I’m still not 100% certain why this is the case, it seems to have something to do with the position of my 
+highlighter object all the same.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-7-highlighter-issue.png" alt="Highlighter Exception" class="lead" />
+Here is where the issue occurs, it’s something I haven’t solved just yet.</p>
+
+<p>I also noticed that my UI elements would be in slightly different locations depending on whether I was playing the
+game in full-screen or not. I decided to look into this issue in an attempt to remove it once and for all. After 
+some searching it seemed that I needed to change the render mode of my canvas to “Screen Space - Overlay”, this 
+rendering mode allows your UI elements to appear uniform on all screens, be it a phone screen or a 1080p computer
+monitor. So far, it seems to keep everything looking good regardless of the game window’s size in my editor. I’ll
+keep a close eye on it all the same.</p>
+
+<h1 id="rapid-input-issue">Rapid Input Issue</h1>
+
+<p>I also noticed that this highlighter exception occurs on the menu if I rapidly press the up or down buttons while the current
+menu is being loaded (moved onto the screen). If the player tries to move on any menu before it is loaded, the buttons
+will appear slightly out of place, the highlighter won’t appear and the aforementioned exception will occur. I went
+through my code tweaking things here and there. I knew that all I should need to do is not allow any inputs to be read
+before the menu is fully loaded, I have since ensured that the bool I used previously to achieve this end (uiElementsInMotion)
+is working as it should, i.e. turning true during a menu transition and reverting to false when the transition ends.
+Unfortunately, at the time of writing, the issue is still in my scene. However, at the very least, I have improved the bug so
+that it is not as destructive. Previously, when this issue occurred, the game would be stuck until I turned off Play Mode.
+Now, if the player moves up or down after the bug occurs, the UI buttons will revert to normal and the highlighter will 
+re-appear on the next menu transition. Not perfect by any means, but it should suffice for now. At some point later on 
+I hope to fix this issue completely.</p>
+
+<h1 id="a-pleasant-side-effect-of-troubleshooting">A Pleasant Side-effect of Troubleshooting</h1>
+
+<p>While I tried to fix the menu input issue, I made a quick fix on my menu panel lerping. I don’t think I’ve mentioned
+it before, but when the menu panels move on and off the screen, the panel coming on-screen would always seem to come
+from the top-right of the screen, regardless of where I placed that menu’s “inactive” location. For example, the quit
+panel is placed below the menu when it is inactive, but when it’s activated in gameplay it comes from the top-right
+of the screen, as do all the other panels. I discovered the source of the problem while troubleshooting the menu input
+issue. It can be seen below.</p>
+
+<p class="figure"><img src="/assets/img/post_images/jack_images/week-7-panel-lerping-fix.png" alt="Panel Transition Fix" class="lead" />
+I realised that in my coroutine for moving UI elements, I accidentally had the UI element lerp from the highlight position, instead of from the UI element’s own position.</p>
+
+<p>As can be seen from the above image, this was a simple mistake with an equally simple fix. Now, panel transitions 
+are much faster and the panels are moving to and from their proper locations.</p>
+
+<p>That’s all for this week. As for the next week, I hope to work on some content for my assigned level, starting with the stage background.</p>
+
+<p>‘Til next time!</p>
+:ET
