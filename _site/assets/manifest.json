@@ -1,8 +1,8 @@
 {
   "lang": "en",
-  "name": "Seon Zhu",
-  "short_name": "Seon Zhu",
-  "description": "Seon’s Blog.",
+  "name": "Team Viteză",
+  "short_name": "Team Viteză",
+  "description": "The website and blog for Team Viteză, who are currently developing a high-speed 2D action platformer game created on the Unity Engine, named Project Viteză for now.",
   "start_url": "/?utm_source=homescreen",
   "theme_color": "rgb(25,55,71)",
   "background_color": "#fff",

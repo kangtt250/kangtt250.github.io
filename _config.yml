@@ -19,16 +19,17 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Seon Zhu
+title:                 Team Viteză
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Seon's Blog.
+  The website and blog for Team Viteză, who are currently developing a high-speed 2D action platformer
+  game created on the Unity Engine, named Project Viteză for now.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Seon's Blog.
+  Official site for _Project Viteză_, the high-speed 2D action platformer.
 
 # A list of keywords for your blog
 keywords:              []
@@ -40,8 +41,8 @@ logo:                  /assets/img/site_images/viteza-icon.png # I'll be fiddlin
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Seon Zhu
-  email:               seon.zhu@gmail.com
+  name:                Jack Gilmartin
+  email:               jack.gilmartin77@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -49,10 +50,8 @@ author:
 menu:  
   - title:             About
     url:               /about/ # We can add more links here later on.
-  - title:             Seon's Blogs
-    url:               /blog/ # We can add more links here later on.
-  - title:             Resume
-    url:               /resume/ # We can add more links here later on.
+  - title:             Team V's Blogs
+    url:               /blogs/ # We can add more links here later on.
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © Project Viteză 2019. All rights reserved.
