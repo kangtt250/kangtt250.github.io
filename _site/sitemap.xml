@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/old/2021-02-13-whats-new-in-hydejack-9-1/</loc>
+<lastmod>2022-01-06T03:14:51+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+<lastmod>2022-01-06T03:24:50+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2022-01-06T03:24:50+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+<lastmod>2022-01-06T03:14:51+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resume/</loc>
+<lastmod>2022-01-06T03:14:51+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/resume/Resume.pdf</loc>
+<lastmod>2021-08-26T10:11:55+08:00</lastmod>
+</url>
+</urlset>
