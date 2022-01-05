@@ -1,35 +1,33 @@
 ﻿# The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-S00171013:
-  name:              Jack Gilmartin
-  email:             jack.gilmartin77@gmail.com
+author:
+  name:              Seon Zhu
+  email:             seon.zhu@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a Games Development student who has recently finished their Third Year in IT Sligo. 
-    I have a keen interest in video games as a medium and would consider myself an aficionado of video game soundtracks (OSTs).
-    
-    Highly proficient in spelling and grammar from an early age, I am now focused on improving my programming and problem-solving skills both through coursework and during my free time.
-    Known to take work seriously, I like to ensure it is done well and on-time. Currently, I am well-versed in C# programming with GameMaker, XNA and Unity.
+    なぁ修恩、俺も信じるよ。生きていれば辛いことがある、だけど、どこかに必ず希望はある。
+    希望がなければ探せばいい、見つからなければ作ればい、そしてもし、その希望さえ失ってしまったら、また最初からやり直せばいい。
 
+    なぁ修恩、そうやって進んでいくしかないんだよなぁ……君もいつだって、そうやって生きていきたんだろう
   # This photo will be used in the about section
   picture:
-    path:            assets/img/user_icons/avatar-jack-128x128.png
+    path:            assets/img/user_icons/akanishi.jpeg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            assets/img/user_icons/avatar-jack-128x128.png
-      2x:            assets/img/user_icons/avatar-jack-256x256.png
+      1x:            assets/img/user_icons/akanishi.jpeg
+      2x:            assets/img/user_icons/akanishi.jpeg
 
   # Social media icons in sidebar
   # Comment/uncomment to show/hide
   # Rearrange to change the order in which they appear
   # Gotta look into fixing these social links.
   social:
-    #twitter:         <username>
-    github:          TeamViteza
-    # email:           <mail@domain.tld>
+    twitter:         Seon_Zhu
+    github:          kangtt250
+    email:           seon.zhu@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -38,9 +36,9 @@ S00171013:
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
-    # soundcloud:      <username>
+    soundcloud:      seon-zhu
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       seonzhu_
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

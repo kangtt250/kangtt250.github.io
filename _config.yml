@@ -19,17 +19,16 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Team Viteză
+title:                 Seon Zhu
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The website and blog for Team Viteză, who are currently developing a high-speed 2D action platformer
-  game created on the Unity Engine, named Project Viteză for now.
+  The website and blog for Seon.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Official site for _Project Viteză_, the high-speed 2D action platformer.
+  Crypto Trader
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,12 +36,12 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/site_images/viteza-icon.png # I'll be fiddling with these icons at a later date, getting them to looking nice.
+logo:                  /assets/img/site_images/icon.png # I'll be fiddling with these icons at a later date, getting them to looking nice.
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Jack Gilmartin
-  email:               jack.gilmartin77@gmail.com
+  name:                Seon Zhu
+  email:               seon.zhu@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -50,11 +49,13 @@ author:
 menu:  
   - title:             About
     url:               /about/ # We can add more links here later on.
-  - title:             Team V's Blogs
+  - title:             Seon's Blogs
     url:               /blogs/ # We can add more links here later on.
+  - title:             Resume
+    url:               /resume/ # We can add more links here later on.
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Project Viteză 2019. All rights reserved.
+copyright:             © Seon Zhu 2022. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
