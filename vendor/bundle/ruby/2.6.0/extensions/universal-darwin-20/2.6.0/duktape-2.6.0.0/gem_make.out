@@ -1,0 +1,21 @@
+current directory: /Users/seon/kangtt250.github.io/hydejack-starter-kit-9.1.5/vendor/bundle/ruby/2.6.0/gems/duktape-2.6.0.0/ext/duktape
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20211222-64856-10eruqm.rb extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: /Users/seon/kangtt250.github.io/hydejack-starter-kit-9.1.5/vendor/bundle/ruby/2.6.0/gems/duktape-2.6.0.0/ext/duktape
+make "DESTDIR=" clean
+
+current directory: /Users/seon/kangtt250.github.io/hydejack-starter-kit-9.1.5/vendor/bundle/ruby/2.6.0/gems/duktape-2.6.0.0/ext/duktape
+make "DESTDIR="
+compiling duktape.c
+compiling duktape_ext.c
+linking shared-object duktape_ext.bundle
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.Internal.sdk/usr/local/lib'
+ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.Internal.sdk/usr/local/lib'
+ld: warning: ignoring file duktape_ext.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+ld: warning: ignoring file duktape.o, building for macOS-arm64e but attempting to link with file built for unknown-x86_64
+
+current directory: /Users/seon/kangtt250.github.io/hydejack-starter-kit-9.1.5/vendor/bundle/ruby/2.6.0/gems/duktape-2.6.0.0/ext/duktape
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 duktape_ext.bundle ./.gem.20211222-64856-86zp0k
