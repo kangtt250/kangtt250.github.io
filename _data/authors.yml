@@ -1,0 +1,108 @@
+﻿# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+S00171013:
+  name:              Jack Gilmartin
+  email:             jack.gilmartin77@gmail.com
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    I am a Games Development student who has recently finished their Third Year in IT Sligo. 
+    I have a keen interest in video games as a medium and would consider myself an aficionado of video game soundtracks (OSTs).
+    
+    Highly proficient in spelling and grammar from an early age, I am now focused on improving my programming and problem-solving skills both through coursework and during my free time.
+    Known to take work seriously, I like to ensure it is done well and on-time. Currently, I am well-versed in C# programming with GameMaker, XNA and Unity.
+
+  # This photo will be used in the about section
+  picture:
+    path:            assets/img/user_icons/avatar-jack-128x128.png
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            assets/img/user_icons/avatar-jack-128x128.png
+      2x:            assets/img/user_icons/avatar-jack-256x256.png
+
+  # Social media icons in sidebar
+  # Comment/uncomment to show/hide
+  # Rearrange to change the order in which they appear
+  # Gotta look into fixing these social links.
+  social:
+    #twitter:         <username>
+    github:          TeamViteza
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+
+Fearonz: # You can update your social links here Adrian.
+  name:              Adrian Fearon
+  email:             fearonedm@outlook.com
+  about:             |
+    Irish 21-year-old based Music Producer and Coder from Cavan, who is super eager to engage with people and constantly seeking to learn new skills.
+    I study Games Development at IT Sligo.
+
+    Hi there, my name is Adrian Fearon and I am the lead audio programmer and composer of Team Viteză.
+
+  picture:           
+   path:            assets/img/user_icons/avatar-adrian-128x128.png
+   srcset:
+     1x:            assets/img/user_icons/avatar-adrian-128x128.png
+     2x:            assets/img/user_icons/avatar-adrian-256x256.png
+
+  twitter:           <username>
+  github:            Fearonz
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+
+S00168764: # Same goes for you here Will.
+  name:              William Corr
+  email:             williammclaughlin75@gmail.com
+  about:             |
+    Character designer and Programmer on Project Viteza
+
+  picture:           
+   path:            assets/img/user_icons/avatar-will-128x128.png   
+   srcset:
+     1x:            assets/img/user_icons/avatar-will-128x128.png
+     2x:            assets/img/user_icons/avatar-will-256x256.png
+
+  twitter:           <username>
+  github:            s00168764
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
