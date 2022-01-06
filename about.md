@@ -1,18 +1,19 @@
-
+---
+layout: post
+---
 
 # Curiosity has its own reason for existence.
 
 
-If you want to be rewarded, you have to be irreplaceable.
+<p> If you want to be rewarded, you have to be irreplaceable.</p>
 
-If you want to be irreplaceable, you have to be unique.
+<p> If you want to be irreplaceable, you have to be unique.</p>
 
-If you want to be unique, you have to be authentic.
+<p> If you want to be unique, you have to be authentic.</p>
 
-If you want to be authentic, stop listening to everyone and everything else. 
+<p>If you want to be authentic, stop listening to everyone and everything else. </p>
 
-It’s drowning “you” out.
+<p><br>It’s drowning “you” out.</br><p>
 
-> Money is the bait, philosophy is the trap.
+<p><strong>Money is the bait, philosophy is the trap.</strong></p>
 
-<!--author-->
