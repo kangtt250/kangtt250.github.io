@@ -1,12 +1,10 @@
 
 # Resume
 
-Get my resume on [PDF](Resume.pdf).
-
-## Hongqiao Zhu 
+## Seon Zhu 
 
 
-Crypto trader and enthusiast.
+Made in Faith.
 
 Over 8 years of experience in software testing, product design & project management.
 
@@ -14,42 +12,43 @@ Over 8 years of experience in software testing, product design & project managem
 Optimistic, self-driven, strong sense of responsibility for work, able to continuously learn new technologies, and continue to maintain self-improvement. 
 
 
-**_Location: Hangzhou, China_**
-
-**_Email: seonzhu@mail.gate.io_**
 
 
 
-## Skills
 
-**Domestic ：**
+## Certification
+
+**Software Engineering ：**
 
 * _Senior Software Engineer_
 * _Senior Database Engineer_
 * _Senior Software Test Engineer_ 
+* _Expert of TMMi Foundation Expert Group_
+* _ISTQB Advanced Level：TA + TTA + TM_
 
 
-**International ：**
+**Project Management ：**
 
 * _PMP (Project Management Professional)_
-* _Expert of TMMi Foundation Expert Group_
-* _ITILV3 (Information Technology Infrastructure Library)_
-* _ISTQB Advanced Level：TA + TTA + TM_
-* _OCJP（Oracle Certified Java Programmer）_
+* _ITIL V3 (Information Technology Infrastructure Library)_
+
+**Financial Analysis ：**
+
 * _CFA Level I Passed_
 
 
-**Language ：**
+**Language：**
 
 * _Japanese: JLPT-N1_
 * _English: CET-6_
 
 
-**Online course ：**
+**Programming：**
 
 * _Python Data Structure（University of Michigan & Coursera Verified）_
 * _Using Python to Access Web Data（University of Michigan & Coursera Verified）_
 * _Using Databases with Python（University of Michigan & Coursera Verified）_
+* _OCJP（Oracle Certified Java Programmer）_
 
 ## Education
 
