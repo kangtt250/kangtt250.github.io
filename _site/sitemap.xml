@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/adrian/</loc>
-<lastmod>2022-01-06T06:03:29+08:00</lastmod>
+<lastmod>2022-01-06T14:34:48+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jack/</loc>
-<lastmod>2022-01-06T06:03:29+08:00</lastmod>
+<lastmod>2022-01-06T14:34:48+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/william/</loc>
-<lastmod>2022-01-06T06:03:29+08:00</lastmod>
+<lastmod>2022-01-06T14:34:48+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/seon/2022-01-06-Industrial-Society-and-Its-Future/</loc>
@@ -24,6 +24,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/docs/basics/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blogs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/docs/build/</loc>
@@ -57,9 +60,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blogs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/licenses/Apache-2.0/</loc>

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Blogs
 description: >
@@ -7,5 +7,5 @@ menu: true
 order: 1
 ---
 
-[Industrial Society and Its Future](/article/)
+[Industrial Society and Its Future](/seon/2022-01-06-Industrial-Society-and-Its-Future)
 
