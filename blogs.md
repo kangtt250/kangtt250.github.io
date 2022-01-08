@@ -7,5 +7,6 @@ menu: true
 order: 1
 ---
 
-[Industrial Society and Its Future](/seon/2022-01-06-Industrial-Society-and-Its-Future/)
+[· 论工业社会及其未来](/seon/2022-01-06-Industrial-Society-and-Its-Future/)
 
+[· 中英双语NIV版圣经](/SUMMARY/)
