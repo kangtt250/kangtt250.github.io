@@ -10,3 +10,5 @@ order: 1
 [· 中英双语NIV版圣经](/SUMMARY/)
 
 [· 论工业社会及其未来](/seon/2022-01-06-Industrial-Society-and-Its-Future/)
+
+[· 财富与幸福指南](/naval/SUMMARY/)
