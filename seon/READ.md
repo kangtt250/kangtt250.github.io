@@ -33,7 +33,7 @@
 * [Learning Happiness 学习快乐](2-1.md)
 * [Happiness Is Learned 幸福是后天学来的](2-2.md)
 * [Happiness Is a Choice 幸福是一种选择](2-3.md)
-* [Happiness Requires Presence 幸福需要在场](2-4.md)]
+* [Happiness Requires Presence 幸福需要在场](2-4.md)
 * [Happiness Requires Peace 幸福需要和平](2-5.md)
 * [Every Desire Is a Chosen Unhappiness 每一个欲望都是一种选择的不快乐](2-6.md)
 * [Success Does Not Earn Happiness 成功不会带来幸福](2-7.md)
