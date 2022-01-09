@@ -14,3 +14,5 @@ order: 1
 [· 财富与幸福指南](/seon/READ/)
 
 [· 君主论](/The-prince/theprince/)
+
+[· 孙子兵法](/szbf/SUMMARY/)
