@@ -74,10 +74,11 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 
 **_Product Operations Manager_**
 
-1. Offers crypto traders to access professional trading services for gate.io exchange.
-2. Tiered VIP fee schedule for higher volume traders available across Spot, Margin and Futures trading. 
-3. Create a range of Futures and Options products for derivatives traders included USDT & Coin-Margined. 
-4. Covered institutional clients around the world ranging from high frequency traders, hedge funds, market makers and brokers.
+1. Offers crypto traders to access professional trading services for exchange.
+2. Tiered VIP fee schedule for higher volume traders available across Spot, Margin, and Futures trading.
+3. Create a range of Futures and Options products for derivatives traders including USDT & Coin-Margined.
+4. Response to the problems that institutional clients around the world ranging from high-frequency traders, hedge funds, market makers, and brokers encounter.
+
 
 ### _2018 ~ 2020 | Coinsuper_ 
 
