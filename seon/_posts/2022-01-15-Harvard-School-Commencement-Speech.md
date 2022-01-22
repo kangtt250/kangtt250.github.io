@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Harvard School Commencement Speech
+categories: [Speeches, ]
 description: >
 ---
 
