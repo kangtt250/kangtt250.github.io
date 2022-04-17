@@ -32,3 +32,8 @@ Pushing gem to https://rubygems.org...
 
 `git push -u origin main`
 
+##Local Deployment
+
+###Command
+`bundle install`
+`bundle exec jekyll serve`
