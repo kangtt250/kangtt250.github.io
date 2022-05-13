@@ -73,7 +73,6 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 **_Principle Product Manager_**
 
 
-
 ### _2021 ~ 2022 | Gate.io_ 
 
 **_Product Operations Manager_**

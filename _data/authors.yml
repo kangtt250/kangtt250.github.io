@@ -1,4 +1,4 @@
-﻿# The primary author of this blog.
+# The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author:
@@ -8,10 +8,9 @@ author:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    なぁ修恩、俺も信じるよ。生きていれば辛いことがある、だけど、どこかに必ず希望はある。
+    生きていれば辛いことがある、だけど、どこかに必ず希望はある。
     希望がなければ探せばいい、見つからなければ作ればい、そしてもし、その希望さえ失ってしまったら、また最初からやり直せばいい。
-
-    なぁ修恩、そうやって進んでいくしかないんだよなぁ……君もいつだって、そうやって生きていきたんだろう
+    そうやって進んでいくしかないんだよ
   # This photo will be used in the about section
   picture:
     path:            assets/img/user_icons/akanishi.jpeg
