@@ -1,5 +1,11 @@
-
-# Resume
+---
+layout: page
+title: Resume
+description: >
+  Money is the bait, philosophy is the trap.
+menu: true
+order: 1
+---
 
 ## Seon Zhu 
 
@@ -70,8 +76,9 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 ## Experience
 ### _2022 ~ Present | Bybit_ 
 
-**_Principle Product Manager_**
-
+**_Principal Product Manager_**
+1. Trading Bot
+2. Proof of Staking
 
 ### _2021 ~ 2022 | Gate.io_ 
 
@@ -85,7 +92,7 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 
 ### _2018 ~ 2020 | Coinsuper_ 
 
-**_Senior Product Manager_**
+**_Head of Product_**
 
 1.	Maintain multi-channel relationship with blockchain projects, crypto exchanges, wallets, medias, audit & security companies. 
 2. Focus on the frontier of crypto industry and market trends, timely feedback on the latest achievements within the team.
@@ -95,7 +102,7 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 
 ### _2016 ~ 2018 | Ant Financial_ 
 
-**_Senior Testing Engineer_**
+**_Senior SEDT_**
 
 1.	Provide safe and efficient online banking payment products services for individuals/enterprises (Alipay Web merchant bank).
 2.	Business requirement analysis, potential risk identification, project process tracking, product quality assurance.
