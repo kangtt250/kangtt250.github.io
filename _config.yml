@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 seonzhu.eth
+title:                 Seon
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  In_My_Faith_I_Trust
+  A cowboy never dies
 
 # A list of keywords for your blog
 keywords:              []
@@ -47,11 +47,11 @@ author:
 
   # Add links to the sidebar.
 menu:  
-  - title:             Don't ❗️ Click
+  - title:             別點❗️
     url:               /about/ # We can add more links here later on.
-  - title:             ♨️ ( • ∀•)–Ψ ♨️
+  - title:             乖🥰～
     url:               /blogs/ # We can add more links here later on.
-  - title:             A Cowboy 🥷 Never Dies
+  - title:             聽話🐶
     url:               /resume/ # We can add more links here later on.
 
 # This text will appear in a `<small>` tag in the footer of every page.
