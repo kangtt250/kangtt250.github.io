@@ -15,8 +15,8 @@ order: 1
 
 ## Crypto
 
+[· 加密货币一级市场发行机制](/article/crypto/加密货币一级市场发行机制/)
+
 [· Wtf is web3?](/article/crypto/web3/)
-
-
 
 
