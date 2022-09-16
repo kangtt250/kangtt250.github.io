@@ -9,20 +9,27 @@ order: 1
 
 ## Seon Zhu 
 
+In My Faith I Trust.
 
-Made in Faith.
-
-Over 8 years of experience in software testing, product design & project management.
-
-
-Optimistic, self-driven, strong sense of responsibility for work, able to continuously learn new technologies, and continue to maintain self-improvement. 
-
-
-
-
+* 9 years in Financial Product Management.
+* 4 Years in Crypto Industry (From 2018.7~present)
+* 2018 - An Erc-20 smart contract of our listing project got hacked, I helped my client recovered around 3M capital loss at that time
+* 2019 - My personal wechat public account “修恩笔记” to organize my thoughts in crypto & web3 & trading & blockchain and reached to 5000 subscriptions
+* 2019 - Invited by the Hong Kong Blockchain Chairman, I participated in the article writing and publication of the book “《重新定义金融：加密货币与数字资产》”
 
 
 ## Certification
+
+
+**Financial Analysis ：**
+
+* _CFA Level I Passed_
+
+
+**Language：**
+
+* _Japanese: JLPT-N1_
+* _English: CET-6_
 
 **Software Engineering ：**
 
@@ -37,17 +44,6 @@ Optimistic, self-driven, strong sense of responsibility for work, able to contin
 
 * _PMP (Project Management Professional)_
 * _ITIL V3 (Information Technology Infrastructure Library)_
-
-**Financial Analysis ：**
-
-* _CFA Level I Passed_
-
-
-**Language：**
-
-* _Japanese: JLPT-N1_
-* _English: CET-6_
-
 
 **Programming：**
 
@@ -77,28 +73,38 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 ### _2022 ~ Present | Bybit_ 
 
 **_Principal Product Manager_**
-1. Trading Bot
-2. Proof of Staking
+
+1. Trading Bot Product Owner and archived to 150M trading volume within 3 months after go live
+ * [Show Case 1: Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot) 
+2. Proof of Stake Product Owner 
+ * [Show Case 2: Bybit Saving](https://www.bybit.com/en-US/earn/savings) 
+
 
 ### _2021 ~ 2022 | Gate.io_ 
 
-**_Product Operations Manager_**
+**_Product Specialist_**
 
-1. Offers crypto traders to access professional trading services for exchange.
-2. Tiered VIP fee schedule for higher volume traders available across Spot, Margin, and Futures trading.
-3. Create a range of Futures and Options products for derivatives traders including USDT & Coin-Margined.
-4. Response to the problems that institutional clients around the world ranging from high-frequency traders, hedge funds, market makers, and brokers encounter.
+1.	Institution Services & Broker Program Product Owner
+ * [Show Case 3: Institutional Services](https://www.gate.io/institution)
+ 
+ * [Show Case 4: Broker Program](https://www.gate.io/broker_program)
+
+2. Tiered Trading fee schedule for higher volume traders available across Spot, Margin, and Futures trading.
+ * [Show Case 5: Trading fee](https://www.gate.io/zh/fee)
+
+3. Response to the API product includes Spot/Futures/Margin/Options that institutional clients around the world ranging from high-frequency traders, hedge funds, market makers, and brokers encounter.
+ * [Show Case 6: API Product](https://www.gate.io/zh/developers)
 
 
 ### _2018 ~ 2020 | Coinsuper_ 
 
-**_Head of Product_**
+**_Chief Product Officer_**
 
-1.	Maintain multi-channel relationship with blockchain projects, crypto exchanges, wallets, medias, audit & security companies. 
-2. Focus on the frontier of crypto industry and market trends, timely feedback on the latest achievements within the team.
+1.	Build relationship with blockchain projects, crypto exchanges, wallets, social medias, audit & security companies. 
+2. Focus on the frontier of crypto industry and market trends, timely feedback on the latest achievements within my team.
 3.	Business and market requirements collection and identification.
 4. Analysis of potential risks, business scheme development, business plan formulation, in collaboration with the product operations team and follow up the whole progress and market effects.
-3.	Communicate closely with the Hong Kong Securities Regulatory Commission on the compliance & regulations.
+3.	Work closely with the Hong Kong Securities Regulatory Commission on the compliance & regulations.
 
 ### _2016 ~ 2018 | Ant Financial_ 
 
