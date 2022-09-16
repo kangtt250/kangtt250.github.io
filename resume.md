@@ -86,7 +86,6 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 
 1.	Institution Services & Broker Program Product Owner
  * [Show Case 3: Institutional Services](https://www.gate.io/institution)
- 
  * [Show Case 4: Broker Program](https://www.gate.io/broker_program)
 
 2. Tiered Trading fee schedule for higher volume traders available across Spot, Margin, and Futures trading.
