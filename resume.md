@@ -20,7 +20,7 @@ With 10 years of Financial Product Management and 5 years in Crypto Industry, I 
 
 **· Principal Product Manager, Bybit, Singapore — 2022.4-Present**
 
-Spearhead the development and launch of Bybit Trading Bot, featuring sub-products like spot grid, dollar-cost averaging, futures grid, and copy trading. The product has generated a trading volume of 7.5 billion since its debut.(Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)). Offer advice and insights for cross-departmental products like CopyTrading, Trading Tools, and Wealth Management (Earn). Also, lead the implementation of Proof of Stake (PoS) products within Earn Management.(Show Case 2: [Bybit Savings](https://www.bybit.com/en-US/earn/savings))
+Spearhead the development and launch of Bybit Trading Bot, featuring sub-products like spot grid, dollar-cost averaging, futures grid, and copy strategies. The product has generated a trading volume of 7.5 billion since its debut.(Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)). Offer advice and insights for cross-departmental products like CopyTrading, Trading Tools, and Wealth Management (Earn). Also, lead the implementation of Proof of Stake (PoS) products within Earn Management.(Show Case 2: [Bybit Savings](https://www.bybit.com/en-US/earn/savings))
 
 **· Product Specialist, Gate.io, Remote — 2021.1-2022.4**
 
@@ -52,7 +52,7 @@ Provide specialized insurance and financial solutions at AIG. Facilitate communi
 ### **EDUCATION**
 
 - Université de Liège, Advanced Enterprise Management — Master Degree, 2018-2019
-- Tonghua Normal University, Japanese — Bachelor Degree, 2018-2019
+- Tonghua Normal University, Japanese — Bachelor Degree, 2008-2012
 
 ### **SKILLS**
 
