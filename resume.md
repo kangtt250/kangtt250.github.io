@@ -7,15 +7,9 @@ menu: true
 order: 1
 ---
 
-## Seon Zhu 
+## Hongqiao Zhu 
 
-In My Faith I Trust.
-
-* 9 years in Financial Product Management.
-* 4 Years in Crypto Industry (From 2018.7~present)
-* 2018 - An Erc-20 smart contract of our listing project got hacked, I helped my client recovered around 3M capital loss at that time
-* 2019 - My personal wechat public account “修恩笔记” to organize my thoughts in crypto & web3 & trading & blockchain and reached to 5000 subscriptions
-* 2019 - Invited by the Hong Kong Blockchain Chairman, I participated in the article writing and publication of the book “《重新定义金融：加密货币与数字资产》”
+With 10 years of Financial Product Management and 5 years in Crypto Industry, I recovered around 3M capital loss for my client after an Erc-20 smart contract got hacked. I also manage a WeChat public account with over 5,000 subscribers to share my insights on crypto, web3, trading, and blockchain. Additionally, I was invited by the Hong Kong Blockchain Chairman to co-author "《重新定义金融：加密货币与数字资产》" in 2019.
 
 
 ## Certification
@@ -74,66 +68,63 @@ Tonghua Normal University is located in Tonghua City, Jilin Province, under the 
 
 **_Principal Product Manager_**
 
-1. Trading Bot Product Owner and archived to 150M trading volume within 3 months after go live
- * [Show Case 1: Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot) 
-2. Proof of Stake Product Owner 
- * [Show Case 2: Bybit Saving](https://www.bybit.com/en-US/earn/savings) 
+* I led the launch of the Bybit Trading Bot product from scratch, with sub-products such as spot grid, dollar-cost averaging, futures grid, and strategy copy trading. The product has achieved a trading volume of 7.5 billion since its launch.
+	* Show Case 1: [https://www.bybit.com/en-US/tradingbot](https://www.bybit.com/en-US/tradingbot)
 
+* Through close collaboration with cross-departmental teams, including UED, tech, marketing & operations, and business development, I proactively addressed various issues during the product launch to ensure its success.
+
+* As a product specialist, I provided guidance and suggestions for cross-departmental products, such as CopyTrading, Trading Tools, and Wealth Management (Earn). Additionally, I led the implementation of Proof of Stake (PoS) products under the Earn Management.
+	* Show Case 2: [https://www.bybit.com/en-US/earn/savings](https://www.bybit.com/en-US/earn/savings)
 
 ### _2021 ~ 2022 | Gate.io_ 
 
 **_Product Specialist_**
 
-1.	Institution Services & Broker Program Product Owner
- * [Show Case 3: Institutional Services](https://www.gate.io/institution)
- * [Show Case 4: Broker Program](https://www.gate.io/broker_program)
+* Successfully owned and managed the Institutional Services & Broker Program, including the development of a Tiered Trading fee schedule for high-volume traders across Spot, Margin, and Futures trading. I also led the implementation of the API product for institutional clients worldwide, including Spot/Futures/Options, catering to a broad range of high-frequency traders, hedge funds, market makers, and brokers. 
 
-2. Tiered Trading fee schedule for higher volume traders available across Spot, Margin, and Futures trading.
- * [Show Case 5: Trading fee](https://www.gate.io/zh/fee)
+* Showcased by the success of Institutional Services and Broker Program along with the Tiered Trading fee system and API product.
+	* Show Case 3: [https://www.gate.io/institution](https://www.gate.io/institution)
+	* Show Case 4: [https://www.gate.io/broker_program](https://www.gate.io/broker_program)
+	* Show Case 5: [https://www.gate.io/fee](https://www.gate.io/fee) 
+	* Show Case 6: [https://www.gate.io/zh/gate-api](https://www.gate.io/zh/gate-api) 
 
-3. Response to the API product includes Spot/Futures/Margin/Options that institutional clients around the world ranging from high-frequency traders, hedge funds, market makers, and brokers encounter.
- * [Show Case 6: API Product](https://www.gate.io/zh/developers)
 
 
 ### _2018 ~ 2020 | Coinsuper_ 
 
 **_Chief Product Officer_**
 
-1.	Build relationship with blockchain projects, crypto exchanges, wallets, social medias, audit & security companies. 
-2. Focus on the frontier of crypto industry and market trends, timely feedback on the latest achievements within my team.
-3.	Business and market requirements collection and identification.
-4. Analysis of potential risks, business scheme development, business plan formulation, in collaboration with the product operations team and follow up the whole progress and market effects.
-3.	Work closely with the Hong Kong Securities Regulatory Commission on the compliance & regulations.
+* Develop relationships with blockchain projects, crypto exchanges, wallets, social media platforms, and audit & security companies. 
+* Stay up-to-date with the latest trends and advancements in the crypto industry, and provide timely feedback to my team. 
+* Gather and identify business and market requirements, analyze potential risks, and collaborate with the product operations team to develop and execute business schemes and plans. 
+* Track progress and market effects closely. Ensure compliance with regulations by working closely with the Hong Kong Securities Regulatory Commission.
 
 ### _2016 ~ 2018 | Ant Financial_ 
 
 **_Senior SEDT_**
 
-1.	Provide safe and efficient online banking payment products services for individuals/enterprises (Alipay Web merchant bank).
-2.	Business requirement analysis, potential risk identification, project process tracking, product quality assurance.
-3.	Online problem response, risk emergency plan, business alarm monitoring.
-4.	Interpreting the state's regulatory system for financial banks and ensuring legal compliance of web merchant bank products.
+
+* Deliver secure and efficient online banking payment products and services to individuals and enterprises via Alipay Web merchant bank. 
+
+* Conduct business requirement analysis, identify potential risks, track project processes, and ensure product quality assurance. 
+
+* Quickly respond to online issues, implement risk emergency plans, and monitor business alarms. Interpret financial bank regulations and ensure legal compliance for web merchant bank products.
 
 ### _2015 ~ 2016 | E-sign_ 
 
 **_QA Manager_**
 
-1.	Provide safe and efficient third-party electronic signature products for individuals/enterprises: e-sign.
-2.	Demand research, identify potential risks arising from demand in the early stage of the project/product.
-3.	Continuous process improvement of product quality through automated technology solutions
-4.	Focus on the latest activities of industry summit forums at home and abroad, share cutting-edge information.
-5.	Responsible for the long-term development of the company, team training, integration of external resources.
+* Deliver secure and efficient third-party electronic signature products for individuals and enterprises via e-sign. 
+* Conduct demand research and identify potential risks early in the project/product development process. Continuously improve product quality through automated technology solutions. 
+* Stay up-to-date with the latest industry summit forums both domestically and internationally, and share cutting-edge information.Take responsibility for the long-term development of the company, including team training and integration of external resources.
 
 
 ### _2013 ~ 2015 | Capgemini_ 
 
 **_Project Lead_**
 
-1.	Providing professional insurance financial service solutions for AIG
-2.	Maintain communication and cooperation between stakeholders from the US, Japan, India, etc.
-3.	Efficiency improvement: Provide automation technology solutions
-4.	Provide international quality management services in accordance with ISTQB standards
-5.	Team building: Skills training, industry information exchange
+* Offer expert insurance and financial service solutions for AIG. Foster effective communication and collaboration between stakeholders from diverse locations such as the US, Japan, and India. Optimize efficiency by providing automation technology solutions. 
+* Deliver international quality management services in compliance with ISTQB standards. Build a strong team through skills training and industry information exchange.
 
 
 
