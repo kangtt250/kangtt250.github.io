@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Profile
 description: >
   Money is the bait, philosophy is the trap.
 menu: true
