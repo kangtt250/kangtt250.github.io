@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 修·恩
+title:                 Seon Zhu
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  あと『69』日
+  INFP-A | Pisces-Aries Cusp | Effective Altruism
 
 # A list of keywords for your blog
 keywords:              []
@@ -43,7 +43,7 @@ author:
   name:                Seon Zhu
   email:               seon.zhu@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             Seon_Zhu
 
   # Add links to the sidebar.
 menu:  
