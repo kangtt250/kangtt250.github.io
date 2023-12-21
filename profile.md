@@ -13,7 +13,7 @@ order: 1
 
 ## **EXPERIENCE**
 
-### **Principal Product Manager, Bybit, Singapore — 2022.4-Present**
+### **Principal Product Manager, Bybit, Singapore — 2022.4-2023.11**
 
 - Spearhead the development and launch of Bybit Trading Bot with sub-products like spot grid, dollar-cost averaging, futures grid, and copy strategy, generating $7.5 billion in trading volume since debut. **Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)**
 - Advised on cross-departmental products including CopyTrading, Trading Tools, and Wealth Management (Earn), and implemented Proof of Stake (PoS) products within Earn Management. **Show Case 2: [Bybit Savings](https://www.bybit.com/en-US/earn/savings)**
