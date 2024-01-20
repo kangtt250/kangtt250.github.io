@@ -45,7 +45,7 @@ order: 1
 
 ## CERTIFICATION
 
-- **Financial Analysis:**Passed CFA Level I & a candidate for CFA Level II
+- **Financial Analysis:**Passed CFA Level I & Level II
 - **Project Management:** Passed PMP (Project Management Professional) & ITIL V3 (Information Technology Infrastructure Library)
 - **Language:**Native Chinese Speaker and passed JLPT-N1 for Japanese & CET-6 for English
 - **Programming:** Passed OCJP (Oracle Certified Java Programmer) & Completed Python Data Structure/Using Python to Access Web Data/Using Databases with Python(University of Michigan & Coursera Verified). Certified as an Expert of TMMi Foundation Expert Group & Passed ISTQB Advanced Level for Technical Test Analyst, Test Analyst, and Test Manager.
