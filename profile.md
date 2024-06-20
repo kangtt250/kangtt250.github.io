@@ -9,13 +9,17 @@ order: 1
 
 ## Seon Zhu 
 
-10 years in FinTech, 5 years in Crypto. Recovered $3M loss due to smart contract hack. Manage a WeChat public account with 5,000+ subscribers. Co-authored "Redefining Finance: Cryptocurrencies and Digital Assets”.
+11 years in FinTech, 6 years in Crypto. Co-authored "Redefining Finance: Cryptocurrencies and Digital Assets”. Built Bybit Trading Bot from 0 to 1.
 
 ## **EXPERIENCE**
 
+### **Futures Business, Binance, Remote — 2023.12-Present**
+
+- Confidential
+
 ### **Principal Product Manager, Bybit, Singapore — 2022.4-2023.11**
 
-- Spearhead the development and launch of Bybit Trading Bot with sub-products like spot grid, dollar-cost averaging, futures grid, and copy strategy, generating $7.5 billion in trading volume since debut. **Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)**
+- Spearhead the entire product development and launch of Bybit Trading Bot includes sub-products like spot grid, spot dca, futures grid, futures martingale, Aurora AI and copy strategy. **Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)**
 - Advised on cross-departmental products including CopyTrading, Trading Tools, and Wealth Management (Earn), and implemented Proof of Stake (PoS) products within Earn Management. **Show Case 2: [Bybit Savings](https://www.bybit.com/en-US/earn/savings)**
 
 ### **Product Specialist, Gate.io, Remote — 2021.1-2022.4**
@@ -28,7 +32,7 @@ order: 1
 - Develop collaborations with blockchain projects, crypto platforms, and relevant firms. Keep updated on trends, share feedback, assess market needs, and strategize with product operations.
 - Track progress, market influence, and maintain regulatory compliance through communication with Hong Kong regulators.
 
-### **Senior SEDT, Ant Financial, Hangzhou — 2016.12-2018.7**
+### **Senior Software Test Development Engineer, Ant Financial, Hangzhou — 2016.12-2018.7**
 
 - Offer secure, efficient Alipay Web merchant bank payment solutions. Analyze requirements, manage risks, track progress, and ensure quality.
 - Address online issues, implement emergency plans, monitor alerts, and uphold legal compliance for products.
