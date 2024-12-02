@@ -13,7 +13,7 @@ order: 1
 
 ## **EXPERIENCE**
 
-### **Futures Business, Binance, Remote — 2023.12-Present**
+### **Confidential, Binance, Remote — 2023.12-Present**
 
 - Confidential
 
