@@ -13,16 +13,23 @@ order: 1
 
 ## **EXPERIENCE**
 
-### **Confidential, Binance, Remote — 2023.12-Present**
+### **Futures Business Lead, Binance, Remote — 2023.12-Present**
 
-- Confidential
+- As the Business Lead of Binance’s Futures and Options division, I oversee a high-performing team of five professionals, responsible for the full business and product lifecycle of our derivatives offerings. My mandate spans market intelligence, product strategy, cross-functional coordination, and go-to-market execution.
+
+- In this role, I’ve led the end-to-end delivery of several cornerstone initiatives that have materially advanced Binance’s institutional and retail derivatives capabilities:
+ • Futures Low Latency Service: Purpose-built for institutional and HFT clients, this infrastructure upgrade significantly reduced order execution latency and now facilitates over 80% of the platform’s total futures trading volume.
+ • USDC-Margined Contracts: Introduced to meet the increasing demand for stablecoin-settled instruments, enhancing capital efficiency and broadening our appeal to both retail and institutional users.
+ • Options Block Trading: Developed and launched a block trade mechanism for options, enabling large-volume, customized trades for professional traders and institutions.
+
+- These strategic initiatives have not only strengthened our competitive position but also deepened institutional penetration and improved user retention. I collaborate extensively with engineering, quant, operations, compliance, and global BD teams to ensure timely, high-quality delivery in a highly dynamic and regulated market environment.
 
 ### **Principal Product Manager, Bybit, Singapore — 2022.4-2023.11**
 
 - Spearhead the entire product development and launch of Bybit Trading Bot includes sub-products like spot grid, spot dca, futures grid, futures martingale, Aurora AI and copy strategy. **Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)**
 - Advised on cross-departmental products including CopyTrading, Trading Tools, and Wealth Management (Earn), and implemented Proof of Stake (PoS) products within Earn Management. **Show Case 2: [Bybit Savings](https://www.bybit.com/en-US/earn/savings)**
 
-### **Product Specialist, Gate.io, Remote — 2021.1-2022.4**
+### **Product Specialist, Gate.io, Remote — 2021.11-2022.4**
 
 - Effectively oversaw the Institutional Services & Broker Program, developing a tiered fee structure for high-volume trading in Spot & Derivatives. **Show Case 3:[Gate Institutional and VIP Services](https://www.gate.io/institution)** **Show Case 4: [Gate Broker Program](https://www.gate.io/zh/broker_program) Show Case 5: [Gate Trading Fees](https://www.gate.io/zh/fee)**
 - Spearheaded the global API product implementation for institutional clients, catering to diverse entities like high-frequency traders, hedge funds, market makers, and brokers across Spot & Derivatives.**Show Case 6: [Gate API](https://www.gate.io/gate-api)**
