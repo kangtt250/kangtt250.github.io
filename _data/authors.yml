@@ -24,11 +24,12 @@ author:
   # Rearrange to change the order in which they appear
   # Gotta look into fixing these social links.
   social:
+    linkedin:        seon
     spotify:         artist/3rSQoTfa4Po9kK51DKVAGQ
     instagram:       seonzhu.eth
     twitter:         Seon_Zhu
-    facebook:        seonzhu.eth
     soundcloud:      seon-zhu
+    #facebook:        seonzhu.eth
     #email:           seon.zhu@gmail.com
     #github:          kangtt250
     # rss:             https://<url>/feed.xml
@@ -55,7 +56,6 @@ author:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
