@@ -13,7 +13,7 @@ order: 1
 
 ## **EXPERIENCE**
 
-### **Futures Business Lead, Binance, Remote — 2023.12-Present**
+### **Futures Business Lead, Binance, Remote — 2023.12-2025.04**
 
 - As the Business Lead of Binance’s Futures and Options division, I oversee a high-performing team of five professionals, responsible for the full business and product lifecycle of our derivatives offerings. My mandate spans market intelligence, product strategy, cross-functional coordination, and go-to-market execution.
 
