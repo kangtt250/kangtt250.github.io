@@ -9,7 +9,7 @@ order: 1
 
 ## Seon Zhu 
 
-12 years in FinTech, 7 years in Crypto. Co-authored "Redefining Finance: Cryptocurrencies and Digital Assets”. 
+12 years in FinTech, 7 years in Crypto. Co-authored "Redefining Finance: Cryptocurrencies and Digital Assets”. Built Bybit Trading Bot from 0 to 1.
 
 ## **EXPERIENCE**
 
