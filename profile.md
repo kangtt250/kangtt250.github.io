@@ -13,6 +13,12 @@ order: 1
 
 ## **EXPERIENCE**
 
+### **Head of Business Development, Rock Bund Capital, Singapore — 2025.04-Present**
+
+- At Rock Bund Capital, I lead our business and capital partnership efforts across both proprietary and external strategies. We are a quantitative crypto fund actively trading across major CEXs, and we also manage the Newbund Fund, designed for institutional and high-net-worth investors seeking consistent returns with managed risk. Our investor base includes well-known trading platforms and institutions.
+- For investors: We offer access to actively traded, market-neutral strategies with real-time transparency, institutional-grade infrastructure, and strong risk control.
+- For talented HFT traders/PMs: We back proven, scalable strategies with capital, ultra-low latency infra, and VIP-tier fee rates on top exchanges. If you’re constrained by capital or infrastructure but confident in your edge, let’s talk.
+
 ### **Futures Business Lead, Binance, Remote — 2023.12-2025.04**
 
 - As the Business Lead of Binance’s Futures and Options division, I oversee a high-performing team of five professionals, responsible for the full business and product lifecycle of our derivatives offerings. My mandate spans market intelligence, product strategy, cross-functional coordination, and go-to-market execution.
