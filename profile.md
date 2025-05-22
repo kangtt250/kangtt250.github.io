@@ -9,7 +9,9 @@ order: 1
 
 ## Seon Zhu 
 
-12 years in FinTech, 7 years in Crypto. Co-authored "Redefining Finance: Cryptocurrencies and Digital Assets”. Built Bybit Trading Bot from 0 to 1.
+Rock Bund Capital leverages a market-neutral, quantitative approach to crypto trading, catering to institutional and high-net-worth investors with a focus on transparency, risk management, and robust infrastructure. As Head of Business Development, I lead initiatives that expand our capital partnerships and empower talented high-frequency trading professionals with cutting-edge tools and resources. 
+
+Previously at Binance, I contributed to the development of low-latency futures services, facilitating the majority of the platform’s trading volume. With over 12 years in FinTech and 7 years in centralized exchanges, I am committed to driving innovation in digital asset trading while fostering scalable opportunities for traders and investors alike.
 
 ## **EXPERIENCE**
 
