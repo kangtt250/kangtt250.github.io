@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seon's Note
+title: 修恩笔记
 description: >
   Money is the bait, philosophy is the trap.
 menu: true
