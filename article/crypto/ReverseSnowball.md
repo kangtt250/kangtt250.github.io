@@ -1,4 +1,4 @@
-# 📘 Reverse Snowball 全面学习笔记（反向雪球结构化产品）
+# 📘 Reverse Snowball 学习笔记（反向雪球结构化产品）
 
 ---
 
