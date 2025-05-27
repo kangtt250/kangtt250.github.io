@@ -1,133 +1,149 @@
 # Wtf is web3
+### 2022 Oct 
 
-Web3 has been a very fashionable term this year, mostly for the alt-finance cartoon characters and tech world’s ultrasophisticated twitter-thread authors.
+## Introduction
 
-It was one of the two cheat code phrases that you could use in 2021 to bypass the critical thinking of LPs when raising your first ever fund, with the other being “metaverse”. Congrats, you now have one billion dollars to deploy because you learned the trendy words and you went to a good school, glhf.
+Web3 has been a very fashionable term this year, mostly for the alt-finance cartoon characters and tech world’s ultra-sophisticated Twitter-thread authors.  
+Web3 今年成了一个极其流行的词，尤其是在另类金融圈的“卡通人物”和高端技术圈的 Twitter 长文作者中。
 
+It was one of the two cheat code phrases you could use in 2021 to bypass the critical thinking of LPs when raising your first fund — the other being "metaverse".  
+在 2021 年，Web3 是两大“秘籍词”之一，用它可以绕开 LP 的批判性思维顺利募资（另一个词是“元宇宙”）。
 
-Despite the deluge of undistinguished thinkpieces issued by the dominie of the day, nobody really agrees what web3 actually even is. Depending on which tribe you belong to, web3 is a scam, web3 is the future, web3 is tokenizing the world, web3 is VC exit liquidity, web3 is just another name for crypto, you get the idea. Even the crypto community can’t make their mind up on whether Bitcoin is web3.
+Despite all the think pieces, nobody really agrees on what web3 is. Depending on your tribe, web3 is a scam, the future, tokenizing the world, VC exit liquidity, or just another word for crypto.  
+尽管满天飞的文章层出不穷，但至今没人能统一定义 web3。看你站在哪一派：有人说它是骗局、是未来、是世界代币化，是 VC 的退出方式，或只是加密的另一种说法。
 
+If no one agrees on what web3 is, maybe it doesn't exist — yet. Still, there are real ideas being tested that inspire, excite, or alarm observers.  
+如果连定义都没有统一，web3 或许根本还不存在。但确实有很多想法和实验正在进行，带来灵感、兴奋，或者担忧。
 
+---
 
-If nobody really agrees on what web3 is, and the term only really rose into buzzword circulation over the last half a year, I think it’s fair to conclude that web3 doesn’t really exist yet. And yet, clearly, there are a lot of ideas and experiments circulating on converging topics that are inciting inspiration, creativity or outright dismay amongst observers.
+## What is the point of web3?
 
-##What is the point of web3?
+Rather than argue over the definition, let’s ask: what problems is web3 trying to solve?  
+与其争论定义，不如问问：web3 到底要解决什么问题？
 
-In an attempt to avoid embracing this dispute’s futility, instead it might be more useful to think about what web3 could be? Do we even need to move on from web2? What is web3 solving?
+### 1. Decentralization of Power
 
-There are two topics that I think are important themes:
+Increasing mistrust in centralized power — governments, central banks, tech giants — drives interest in trustless, censorship-resistant platforms.  
+人们对集权的信任不断降低（政府、央行、科技巨头），这推动了对“无需信任、抗审查平台”的渴望。
 
-* Decentralization of power — There is increasing mistrust in concentrated power. Whether it is government, central banks, or global omegatech corporations that have become more powerful than nations. The trend of deplatforming, behavioural mandates and censorship has created new interest in building trustless and censorship-resistant platforms that can empower ordinary people and fractionate existing power structures.
+### 2. Ownership of Value
 
-* Ownership of value — With Web2, the web changed from “read” to “read and write”. The web became social and participative; the age of user-generated content began. Modern tech companies host content sourced from users and then monetize it privately. They exploit our desire for social interaction and compound them with addictive product-patterns, interweave adverts and extract all of this user-generated value for shareholders. By the time you’re able to to become a shareholder in these companies, they’re already valued at multiple billions and insiders already got rich.
+Web2 gave us participation but not value capture. Big tech profited from user-generated content while users got nothing.  
+Web2 让我们可以参与，但不能拥有价值。大公司靠用户内容赚钱，而用户却一无所获。
 
-**An open and equitable web**
+Web3 aspires to let users share the value they help create.  
+Web3 希望让用户参与创造、同时共享价值。
 
-I understand the excitement of proponents.
+---
 
-An idealised future web might be able to address these issues in a way that not just contributes in a positive way to these social issues, but also enables founders with powerful growth and retention tools to compete with incumbents.
+## The Hope: An Open and Equitable Web
 
-We could build a web where users are able to share in the value that they create and supercharge adoption. One where techgod majority rulers don’t decide what we’re allowed to talk about or how many adverts we have to look at every day.
+In theory, web3 could level the playing field:  
+理想中的 web3 是这样的：
 
-Perhaps it can empower regular people who have spent thousands of hours acting as batteries for big companies, their attention harvested into profits for private shareholders.
+- Users share in upside  
+  用户共享成长红利  
+- Platforms empower communities, not corporations  
+  平台赋权社区而非公司  
+- Growth incentives are aligned with participation  
+  成长激励与参与紧密绑定  
 
-Maybe the web can become more cooperative instead of extractive.
+Maybe the web becomes more cooperative than extractive.  
+也许 Web 会从“收割式”转向“协作式”。
 
-**Ponzification of everything**
+---
 
-Probably even moreso, I understand the fear of critics.
+## The Fear: Ponzification of Everything
 
-A pessimistic future web might be littered with tokenised microtransactions seeking rent on all possible user actions, needing users to own native tokens to properly operate their toaster.
+Critics worry that web3 becomes:  
+但批评者担忧它会变成：
 
-It might be a web built on selling worthless ERC20s to retail investors to fund failing projects and extracting value much more directly than spending years selling adverts.
+- Pay-to-use everything  
+  万事收费（连用烤面包机都要代币）  
+- Token scams and microtransaction rent-seeking  
+  充满空气币骗局  
+- No moderation, more crime  
+  缺乏监管，犯罪蔓延  
+- Benefits rich insiders and hedge funds  
+  最终只便宜了大 VC 和对冲基金  
 
-And it could be a web with fewer tools to deal with harassment or evils like child abuse content. Online crime becomes more difficult to prevent.
+---
 
-Perhaps the financialisation of everything benefits only sophisticated algorithmic hedge-funds and gigantic early megaVCs that became majority owners of these tokens in private seed rounds.
+## If You Expect the Worst, You're Not Wrong
 
-## Which way to go?
+Web2 already made the internet worse — cookie banners, ads, paywalls. Web3 may do the same.  
+Web2 早把互联网搞烦人了（cookie 弹窗、广告、付费墙），Web3 也可能重蹈覆辙。
 
-If you’re able to imagine both a pleasant future and a dystopian future, I wouldn’t blame you for expecting the worst one to be the most likely to become reality. Modern businesses have evidently often made the web more…. annoying. Cookie permissions, gdpr requests, banner ads, paywalls, lootboxes and pay-to-play or pay-to-win — it is easy to expect suboptimal or anti-user changes.
+And many crypto projects do look like scams. No wonder people are skeptical.  
+许多加密项目确实像骗局，大家质疑也情有可原。
 
-And if you look externally into crypto, outsiders can’t really be blamed for seeing things that look extremely similar to scams. Wealth effect has driven exuberance and arrogance amongst market participants, and the self-referential ironic nature of crypto culture is alienating to non-natives.
+Still, Bitcoin and Ethereum prove that owner-operated systems can work.  
+但比特币和以太坊已证明“用户拥有”的网络是可行的。
 
-I get it. The past sucked sometimes and the present sucks sometimes, so the urge to reject ideas that you can poke theoretical holes in is potent. You don’t have to think very hard to imagine ways decentralised systems could be exploited, and you don’t have to look very far to find examples of regular people being exploited by token projects.
+---
 
-But at the same time, you don’t have to look far to see the power of ownership and self-autonomy in existing owner-operated systems.
+## Inequality and the Appeal of Ownership
 
-Bitcoin moved from “darkweb drug money” to an institution-grade store of value asset in the space of a decade without a central authority to guide it.
+Inequality is rising. Wages are stagnant. Assets soar. People feel stuck.  
+不平等日益严重，工资不涨，资产飙升，普通人无处安放。
 
-Ethereum evolved from from “techbro ponzi scheme” to a massive owner-operated network that transactions multi-billions in value daily.
+Owning part of a network might be capitalism’s version of Universal Basic Income.  
+拥有网络一部分，或许是资本主义版的“全民基本收入”。
 
-Businesses, users and third parties contributed to creating incremental value for both of these networks and the reward was shared amongst them for doing so. Anyone could participate and value could accrue back to them, instead of only accruing to founders or financiers.
+If people are rewarded for the value they help create, that could reshape adoption.  
+如果人们能参与并分享价值，增长将会自然而然地发生。
 
-Even purely fun social consensus projects like ConstitutionDAO could perhaps be an example of user-generated value creation shared amongst all. The DAO became worth more despite failing to secure the constitution, and that value accrued back to the participants.
+---
 
-Perhaps this shared ownership can be a forcing function to break existing conventions on how tech companies can or should operate.
+## Origins and Fairness
 
-**Inequality**
+Bitcoin launched fairly — no premine, open mining.  
+比特币公平启动：没有预挖，人人可参与。
 
-The rise of inequality has become increasingly evident. During the pandemic, asset prices skyrocketed and the already rich got richer. Meanwhile, small businesses struggled and the working class virtually instantly spent their stimulus cash. Apparently over 50% of Americans have less than 3 months worth of emergency savings.
+Ethereum launched via ICO. Fairer than most, though founders did keep a small cut.  
+以太坊通过 ICO 启动，相对公开，虽然创始团队保留了少量份额。
 
-Wage growth has been virtually stagnant but the cost of a home is up over 400% over the last 40 years. People have started to feel stuck in a system rigged against them with the chance to afford the future they want rapidly slipping away.
+Over time, ICOs turned into VC-heavy private sales, shutting out retail.  
+后来 ICO 变味了，成了 VC 私募的游戏，散户被排除在外。
 
-No wonder there has been a rise in RobinHood retail options traders and Dogecoin buyers. Lottery-ticket style investing has become a viable option to people that don’t see a path to their financial goals through saving and investing.
+---
 
-Perhaps a more socialistic model of equity or token ownership can act as capitalism’s answer to a Universal Basic Income. Instead of the state printing a bit of cash for families, taxing future generations to pay the current one, maybe people sharing in the wealth they generate can create a more equitable world.
+## On Getting Rich
 
-If users vote with their wallets by choosing companies that will let them be rewarded for the value creation that they already participate in, these companies will discover huge network effect tools to grow quickly and unseat incumbents. Real people could opt to own some of the value they collectively created, instead of forfeiting it all to founders and investors.
+Four things seem true:
 
-If all else were equal, a user offering two identical services would be incentivised to use the one where value accrued back to them.
+1. Founders deserve wealth if they build real value  
+2. Early backers can earn upside for taking risk  
+3. People want fairer access to early rounds  
+4. Everyone hates grifters profiting from nothing  
 
-**Immaculate conception**
+四点现实：
 
-When Bitcoin was created, it was another immaculate conception. Satoshi delivered what may prove to be one of the most important creations in history to the world on fair terms for all to participate. They didn’t take a share of coins privately, nor give any to private investors. They mined their own coins on terms that were equal to all other participants. Yes, they mined millions of coins because they were early, but they had no extra advantage over anyone else that learned about Bitcoin.
+1. 创始人若创造价值，应当致富  
+2. 早期投资者承担风险，值得回报  
+3. 散户希望公平参与早期轮  
+4. 所有人都讨厌“空手套白狼”的人  
 
-When Ethereum was created, they premined coins and held an open free-for-all ICO. They sold 60,000,000 ETH to any one that wanted to participate. Ethereum was sold for around $0.30 per ETH. Ethereum founders did keep some coins for themselves and for the Ethereum foundation. Vitalik, founder of ETH and the single largest premine recipient, received less than 1% of the entire supply of ETH which is a pretty small ownership share when compared to traditional equities.
+And yes, Web3 has both of these forces in conflict — idealists vs cash-grabbers.  
+是的，Web3 中这两种人并存：理想主义者 vs 快钱投机者。
 
-While Ethereum’s inception was slightly less “fair for all” when compared to Bitcoin, it still had a relatively fair and open participation model. Through 2017, ICOs replicated this model, but started to be degraded with pre-sales and private sales to insiders.
+---
 
-By 2018/19, free-for-all fair terms for participants became a thing of the past. The SEC enforced against ICO projects in an attempt to protect retail investors. Regulatory pressure and lack of clarity led crypto-builders to raise privately from VCs instead of the general public. It stopped being possible for non-insiders to buy on the early, cheap terms that VCs were now able to purchase at.
+## In Summary
 
-You can focus on the trend of a free-for-all fair-launch network with no founder rewards transitioning to VC-funded privatised gains with large founder allocations and be extremely pessimistic. It appears the purity and beauty of Satoshi’s creation has been corrupted by the greedy.
+Web3 doesn’t exist — yet. But it's worth thinking about.  
+Web3 现在还不存在，但值得认真思考。
 
-But the truth is that crypto is just popular now. When Bitcoin was launched, it was less obvious to many that crypto may have value. Bitcoin proved that it could. Ethereum compounded that belief. Charts going up only for ten years attracted a lot of risk-seeking capital.
+The promise: decentralization, participation, fairness.  
+它的承诺：去中心化、参与感、公平性。
 
-When Satoshi launched Bitcoin, mining difficult was so low that people were able to mine 50BTC block rewards with solo PCs. The undiscovered nature of Bitcoin made it a hobbyist’s fair launch, not a hedge fund playground. If a project tried to launch in the same manner today, the already-rich would simply take over all of the hash and accumulate all of the coins, paying electricity providers for a share in this new project. In such an environment, founders may as well just sell to them directly and secure long-term funding.
+The risk: ponzis, greed, and VC gatekeeping.  
+它的风险：庞氏结构、贪婪、本质还是 VC 说了算。
 
-I would prefer open sales available to all on the same terms, but understand that founders don’t want to risk unnecessary regulatory headaches and therefore dealing with professional investors is easier and lower overhead generally. Not to mention the vectors for abuse and that most 2017 ICOs went to zero.
+It’s up to builders, users, and regulators to shape which version we get.  
+最终会成什么样，取决于建设者、用户与监管者。
 
-**Does it matter if some people get rich while building the future?**
-
-I don’t think anyone will argue that Vitalik does not deserve to own 0.7% of ETH’s supply for his contributions to Ethereum. I don’t think anyone would argue that Satoshi’s 1M coins were unfairly mined.
-
-And yet it is impossible to ignore the irony in the largest proponents of web3 being historically successful venture capitalists. Yes, no surprise that these entities are attempting to become the super-financiers of this apparent utopian shared Community-Owned Economy by buying a majority stake in discounted seed rounds.
-
-It’s also impossible to ignore cash-grab founders and investors have exploited existing market dynamics to create ponzinomic-style bull market projects to enrich themselves.
-
-Thus, I think four things are true:
-
-* There is consensus that founders getting rich when they create huge value in the world is deserved and expected.
-
-* There is rough consensus that VCs or angel investors that fund something early are providing a service and should be rewarded for that when what they funded creates huge value in the world.
-
-* Many people believe these funding opportunities should be open and fairer, rejecting existing accredited investor rules as excessively parental or counter-intuitive (yay, now we get to buy the top from VCs!).
-
-* Everybody absolutely fucking hates it when founders or VCs get rich from something that does not contribute value to the world in any way.
-
-There’s no denying that the latter bullet point has become prevalent in crypto now. Many pre-product CEOs becoming overnight billionaires from launching a token and making some promises about an NFT-driven video game, or building a “web3” platform that attracts only double-digit active users.
-
-**In sum**
-
-Web3 doesn’t really exist yet. But evaluating its merit on superabundant bull market ponzis is probably doing it a disservice, the same way ignoring those market dynamics would be dishonest.
-
-The social problems with the world, and with web2, I think are valid and worth solving and there’s a lot exciting stuff to consider in the promises of web3.
-
-I think open, transparent and permissionless systems replacing trusted central authorities is good for the world and can rebalance and decentralize power.
-
-I’m hopeful that the financial exuberance in crypto markets can attract brilliant minds away from selling people ads to instead build a more equitable and cooperative future.
-
-But I ain’t gonna be surprised if crypto founders are too rich to care anymore and the new web gets built by late-stage capitalism greedcorps that make you buy a fractionalised micropayment NFT on Cardano to operate your electric toothbrush.
 
 **Post-credits**
 
