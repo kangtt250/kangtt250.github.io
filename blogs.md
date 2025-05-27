@@ -10,6 +10,8 @@ order: 1
 
 ## Seon's Note
 
+[· ReverseSnowball 反雪球学习笔记](/article/crypto/ReverseSnowball/)
+
 [· Black-Scholes 期权定价模型学习笔记](/article/crypto/Black-Scholes_Notes/)
 
 [· 加密货币一级市场发行机制](/article/crypto/加密货币一级市场发行机制/)
