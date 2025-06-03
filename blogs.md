@@ -10,13 +10,13 @@ order: 1
 
 ## Seon's Note
 
-[· AQDQ 学习笔记](/article/crypto/AQDQ/)
+[· AQDQ 结构化产品](/article/crypto/AQDQ/)
 
-[· Snowball 雪球学习笔记](/article/crypto/Snowball/)
+[· Snowball 雪球结构化产品](/article/crypto/Snowball/)
 
-[· ReverseSnowball 反雪球学习笔记](/article/crypto/ReverseSnowball/)
+[· ReverseSnowball 反雪球结构化产品](/article/crypto/ReverseSnowball/)
 
-[· Black-Scholes 期权定价模型学习笔记](/article/crypto/Black-Scholes_Notes/)
+[· Black-Scholes 期权定价模型](/article/crypto/Black-Scholes_Notes/)
 
 [· 加密货币一级市场发行机制](/article/crypto/加密货币一级市场发行机制/)
 
