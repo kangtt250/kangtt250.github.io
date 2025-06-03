@@ -10,6 +10,8 @@ order: 1
 
 ## Seon's Note
 
+[· AQDQ 学习笔记](/article/crypto/AQDQ/)
+
 [· Snowball 雪球学习笔记](/article/crypto/Snowball/)
 
 [· ReverseSnowball 反雪球学习笔记](/article/crypto/ReverseSnowball/)
