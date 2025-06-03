@@ -1,5 +1,5 @@
 
-# Black-Scholes 期权定价模型学习笔记
+# Black-Scholes 期权定价模型
 
 ## 1. Black-Scholes 公式简介
 
