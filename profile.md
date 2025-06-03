@@ -9,17 +9,19 @@ order: 1
 
 ## Seon Zhu 
 
-Rock Bund Capital leverages a market-neutral, quantitative approach to crypto trading, catering to institutional and high-net-worth investors with a focus on transparency, risk management, and robust infrastructure. As Head of Business Development, I lead initiatives that expand our capital partnerships and empower talented high-frequency trading professionals with cutting-edge tools and resources. 
+Rock Bund Capital is a proprietary trading firm specializing in market-neutral, high-frequency strategies across digital assets. We combine rigorous quantitative research with institutional-grade infrastructure to capture consistent alpha in all market conditions. As Head of Business Development, I lead strategic initiatives to scale our internal trading capabilities, deepen partnerships, and empower elite trading teams with advanced tools, capital, and low-latency infrastructure.
 
-Previously at Binance, I contributed to the development of low-latency futures services, facilitating the majority of the platform’s trading volume. With over 12 years in FinTech and 7 years in centralized exchanges, I am committed to driving innovation in digital asset trading while fostering scalable opportunities for traders and investors alike.
+Prior to this, I was with Binance, where I helped build and scale the platform’s low-latency futures trading stack—supporting a significant share of its global volume. With over 12 years in FinTech and 7 years in centralized exchanges, I remain focused on advancing proprietary trading through innovation, operational excellence, and deep market connectivity.
 
 ## **EXPERIENCE**
 
 ### **Head of Business Development, Rock Bund Capital, Singapore — 2025.04-Present**
 
-- At Rock Bund Capital, I lead our business and capital partnership efforts across both proprietary and external strategies. We are a quantitative crypto fund actively trading across major CEXs, and we also manage the Newbund Fund, designed for institutional and high-net-worth investors seeking consistent returns with managed risk. Our investor base includes well-known trading platforms and institutions.
-- For investors: We offer access to actively traded, market-neutral strategies with real-time transparency, institutional-grade infrastructure, and strong risk control.
-- For talented HFT traders/PMs: We back proven, scalable strategies with capital, ultra-low latency infra, and VIP-tier fee rates on top exchanges. If you’re constrained by capital or infrastructure but confident in your edge, let’s talk.
+- At Rock Bund Capital, I lead our business and strategic partnership initiatives focused on proprietary trading and supporting exceptional quantitative talent.We are an active market-neutral trading team, with a deep focus on execution, infrastructure, and disciplined risk management. Our proprietary desk runs scalable high-frequency strategies powered by in-house systems and robust market connectivity.
+
+- For high-performing HFT traders & PMs: We collaborate with teams and individuals who have a proven edge but are limited by capital or infrastructure. We provide the resources needed to scale — including capital, low-latency access, and full operational support — while ensuring complete autonomy and ownership of your strategy.
+
+- If you're a quant trader looking to scale, or a venue exploring collaboration with a committed trading partner — feel free to reach out.
 
 ### **Futures Business Lead, Binance, Remote — 2023.12-2025.04**
 
