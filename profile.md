@@ -9,7 +9,7 @@ order: 1
 
 ## Seon Zhu 
 
-Rock Bund Capital is a proprietary trading firm specializing in market-neutral, high-frequency strategies across digital assets. We combine rigorous quantitative research with institutional-grade infrastructure to capture consistent alpha in all market conditions. As Head of Business Development, I lead strategic initiatives to scale our internal trading capabilities, deepen partnerships, and empower elite trading teams with advanced tools, capital, and low-latency infrastructure.
+Rock Bund Capital is a proprietary trading firm specializing in market-neutral, high-frequency strategies. We combine rigorous quantitative research with institutional-grade infrastructure to capture consistent alpha in all market conditions. As Head of Business Development, I lead strategic initiatives to scale our internal trading capabilities, deepen partnerships, and empower elite trading teams with advanced tools, capital, and low-latency infrastructure.
 
 Prior to this, I was with Binance, where I helped build and scale the platform’s low-latency futures trading stack—supporting a significant share of its global volume. With over 12 years in FinTech and 7 years in centralized exchanges, I remain focused on advancing proprietary trading through innovation, operational excellence, and deep market connectivity.
 
