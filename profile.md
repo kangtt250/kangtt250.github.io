@@ -8,14 +8,14 @@ order: 1
 ---
 
 # Seon Zhu  
-**Head of Business Development | Rock Bund Capital**  
+**Head of Business | Rock Bund Capital**  
 _Ex-Binance, Bybit | 12+ Years in FinTech | Scaling Market-Neutral Crypto Strategies_
 
 ---
 
 ## 🔹 Summary
 
-Crypto-native executive with 12+ years in FinTech and 7 years leading trading products, infrastructure, and strategy across top-tier crypto exchanges. Currently scaling a proprietary trading desk at Rock Bund Capital, with a focus on market-neutral strategies, low-latency execution, and empowering top-tier HFT talent.
+With 12+ years in FinTech and 7 years leading trading products, infrastructure, and strategy across top-tier crypto exchanges. Currently scaling a proprietary trading desk at Rock Bund Capital, with a focus on market-neutral strategies, low-latency execution, and empowering top-tier HFT talent.
 
 We deploy internal capital through disciplined, infrastructure-driven strategies across global venues, combining institutional-grade systems with deep market insight.
 
@@ -23,7 +23,7 @@ We deploy internal capital through disciplined, infrastructure-driven strategies
 
 ## 🔹 Experience
 
-### **Head of Business Development – Rock Bund Capital**  
+### **Head of Business – Rock Bund Capital**  
 *Apr 2025 – Present*
 
 - Lead global business and strategic initiatives for a proprietary trading firm focused on market-neutral and high-frequency strategies.  
