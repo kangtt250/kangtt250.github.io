@@ -7,81 +7,117 @@ menu: true
 order: 1
 ---
 
-## Seon Zhu 
+# Seon Zhu  
+**Head of Business Development | Rock Bund Capital**  
+_Ex-Binance, Bybit | 12+ Years in FinTech | Scaling Market-Neutral Crypto Strategies_
 
-Crypto-native executive with 12+ years in FinTech and 7 years leading trading products, infrastructure, and strategy across top-tier crypto exchanges. Currently scaling a proprietary trading desk at Rock Bund Capital, with a focus on market-neutral strategies, low-latency execution, and empowering top-tier HFT talent. We deploy internal capital through disciplined, infrastructure-driven strategies across global venues, combining institutional-grade systems with deep market insight.
+---
 
-Prior to this, I was with Binance, where I helped build and scale the platform’s low-latency futures trading stack—supporting a significant share of its global volume. With over 12 years in FinTech and 7 years in centralized exchanges, I remain focused on advancing proprietary trading through innovation, operational excellence, and deep market connectivity.
+## 🔹 Summary
 
-## **EXPERIENCE**
+Crypto-native executive with 12+ years in FinTech and 7 years leading trading products, infrastructure, and strategy across top-tier crypto exchanges. Currently scaling a proprietary trading desk at Rock Bund Capital, with a focus on market-neutral strategies, low-latency execution, and empowering top-tier HFT talent.
 
-### **Head of Business Development, Rock Bund Capital, Singapore — 2025.04-Present**
+We deploy internal capital through disciplined, infrastructure-driven strategies across global venues, combining institutional-grade systems with deep market insight.
 
-- Lead global business and strategic initiatives for a proprietary trading firm focused on market-neutral and high-frequency strategies.
+---
 
-- Work closely with elite quant teams to provide capital, low-latency connectivity, and operational support — enabling scalable alpha generation while preserving full autonomy.
+## 🔹 Experience
 
+### **Head of Business Development – Rock Bund Capital**  
+*Apr 2025 – Present*
+
+- Lead global business and strategic initiatives for a proprietary trading firm focused on market-neutral and high-frequency strategies.  
+- Oversee partnerships, infrastructure expansion, and trading enablement across major centralized and decentralized venues.  
+- Work closely with elite quant teams to provide capital, low-latency connectivity, and operational support — enabling scalable alpha generation while preserving full autonomy.  
 - Focused exclusively on proprietary trading and internal capital deployment.
 
-### **Futures Business Lead, Binance, Remote — 2023.12-2025.04**
+---
 
-- As the Business Lead of Binance’s Futures and Options division, I oversee a high-performing team of five professionals, responsible for the full business and product lifecycle of our derivatives offerings. My mandate spans market intelligence, product strategy, cross-functional coordination, and go-to-market execution.
+### **Futures Business Lead – Binance (Remote)**  
+*Dec 2023 – Apr 2025*
 
-- In this role, I’ve led the end-to-end delivery of several cornerstone initiatives that have materially advanced Binance’s institutional and retail derivatives capabilities:
- • Futures Low Latency Service: Purpose-built for institutional and HFT clients, this infrastructure upgrade significantly reduced order execution latency and now facilitates over 80% of the platform’s total futures trading volume.
- • USDC-Margined Contracts: Introduced to meet the increasing demand for stablecoin-settled instruments, enhancing capital efficiency and broadening our appeal to both retail and institutional users.
- • Options Block Trading: Developed and launched a block trade mechanism for options, enabling large-volume, customized trades for professional traders and institutions.
+- Directed strategy and product delivery for Binance Futures & Options division.  
+- Spearheaded a low-latency infrastructure overhaul powering over 80% of platform-wide futures volume from high-frequency participants.  
+- Launched new product lines including USDC-margined contracts and block trading for options, expanding institutional access and product flexibility.  
+- Worked across engineering, quant, compliance, and ops teams to deliver institutional-grade solutions.
 
-- These strategic initiatives have not only strengthened our competitive position but also deepened institutional penetration and improved user retention. I collaborate extensively with engineering, quant, operations, compliance, and global BD teams to ensure timely, high-quality delivery in a highly dynamic and regulated market environment.
+---
 
-### **Principal Product Manager, Bybit, Singapore — 2022.4-2023.11**
+### **Principal Product Manager – Bybit**  
+*Apr 2022 – Nov 2023*
 
-- Led the launch of Bybit’s Trading Bots suite, including grid, DCA, martingale, AI-driven strategies, and copy trading integrations. **Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)**
-- Advised and collaborated with Cross Products including Copy Trading, Trading Tools.
+- Led the launch of Bybit’s Trading Bots suite, including grid, DCA, martingale, AI-driven strategies, and copy trading integrations.  
+- Drove cross-functional execution to expand product adoption across advanced and retail users.
 
-### **Product Specialist, Gate.io, Remote — 2021.11-2022.4**
+---
 
-- Effectively oversaw the Institutional Services & Broker Program, developing a tiered fee structure for high-volume trading in Spot & Derivatives. **Show Case 3:[Gate Institutional and VIP Services](https://www.gate.io/institution)** **Show Case 4: [Gate Broker Program](https://www.gate.io/zh/broker_program) Show Case 5: [Gate Trading Fees](https://www.gate.io/zh/fee)**
-- Spearheaded the global API product implementation for institutional clients, catering to diverse entities like high-frequency traders, hedge funds, market makers, and brokers across Spot & Derivatives.**Show Case 6: [Gate API](https://www.gate.io/gate-api)**
+### **Product Specialist – Gate.io**  
+*Nov 2021 – Apr 2022*
 
-### **Chief Product Officer, Coinsuper, Hong Kong — 2018.7 - 2020.12**
+- Built Gate.io’s institutional API and fee program to support high-frequency, market making, and quantitative trading clients.  
+- Designed and launched the Broker & VIP framework to optimize institutional growth in spot and derivatives markets.
 
-- Develop collaborations with blockchain projects, crypto platforms, and relevant firms. Keep updated on trends, share feedback, assess market needs, and strategize with product operations.
-- Track progress, market influence, and maintain regulatory compliance through communication with Hong Kong regulators.
+---
 
-### **Senior Software Test Development Engineer, Ant Financial, Hangzhou — 2016.12-2018.7**
+### **Chief Product Officer – Coinsuper**  
+*Jul 2018 – Dec 2020*
 
-- Offer secure, efficient Alipay Web merchant bank payment solutions. Analyze requirements, manage risks, track progress, and ensure quality.
-- Address online issues, implement emergency plans, monitor alerts, and uphold legal compliance for products.
+- Oversaw trading infrastructure, product roadmap, and compliance alignment in collaboration with ecosystem partners and regulators.  
+- Delivered exchange-scale systems integrating spot, futures, and fiat gateway infrastructure.
 
-### **QA Manager, E-Sign, Hangzhou — 2015.9-2016.12**
+---
 
-- Deliver secure, efficient e-signature solutions via e-sign. Research demands, identify risks, improve quality with automation, and stay updated on industry events.
-- Manage company growth, including team training and resource integration.
+### **Senior Test Engineer – Ant Financial (Alipay)**  
+*Dec 2016 – Jul 2018*
 
-### **Project Lead, Capgemini, Tokyo — 2012.7-2015.9**
+- Delivered high-reliability bank-side payment integrations within Alipay Web ecosystem.  
+- Managed online risk, monitoring, and testing quality controls for critical payment systems.
 
-- Offer tailored insurance and financial solutions at AIG. Foster global stakeholder communication and collaboration.
-- Improve efficiency using automation and maintain ISTQB standards. Develop team skills and share industry knowledge.
+---
 
-## CERTIFICATION
+### **QA Manager – E-Sign**  
+*Sep 2015 – Dec 2016*
 
-- **Financial Analysis:**Passed CFA Level I & Level II, Candidate of CFA Level III
-- **Project Management:** Passed PMP (Project Management Professional) & ITIL V3 (Information Technology Infrastructure Library)
-- **Language:**Native Chinese Speaker and passed JLPT-N1 for Japanese & CET-6 for English
-- **Programming:** Passed OCJP (Oracle Certified Java Programmer) & Completed Python Data Structure/Using Python to Access Web Data/Using Databases with Python(University of Michigan & Coursera Verified). Certified as an Expert of TMMi Foundation Expert Group & Passed ISTQB Advanced Level for Technical Test Analyst, Test Analyst, and Test Manager.
+- Managed quality and automation teams for e-signature platform, with a focus on security and enterprise integrations.
 
-### **EDUCATION**
+---
 
-- Université de Liège, Advanced Enterprise Management — Master Degree, 2018-2019
-- Tonghua Normal University, Japanese — Bachelor Degree, 2008-2012
+### **Project Lead – Capgemini, Tokyo**  
+*Jul 2012 – Sep 2015*
 
-### **SKILLS**
+- Delivered financial automation solutions to AIG Japan using Agile and ISTQB best practices.  
+- Coordinated multi-national project teams and improved delivery performance.
 
-Proficient in Figma, Axure, Sensors, Tableau, Jira, Python, SQL and Git
+---
 
-## Interests
-**Music : _Songwriter | Sound arranger | Sound mixer_**
+## 🔹 Education
+
+- **Université de Liège** – Master’s in Advanced Enterprise Management  
+- **Tonghua Normal University** – Bachelor’s in Japanese
+
+---
+
+## 🔹 Certifications
+
+- CFA Level II Passed (Level III Candidate)  
+- PMP & ITIL V3 Certified  
+- JLPT N1 (Japanese), CET-6 (English)  
+- OCJP | Python + SQL | ISTQB Advanced (Test Analyst & Manager)
+
+---
+
+## 🔹 Skills & Tools
+
+Figma, Axure, Tableau, Jira, Git, Python, SQL
+
+---
+
+## 🔹 Creative Projects (Optional)
+
+- Composer & Producer: Tesla x PUBG commercial theme “Evolve”  
+- Gospel Music: “Praise to the Messiah” (arranger & songwriter)  
+- Tools: Logic Pro X, Pro Tools
+
 
 * proficient in Logic Pro X & Pro Tools 
 
