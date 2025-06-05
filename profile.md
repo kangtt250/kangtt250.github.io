@@ -82,7 +82,7 @@ We deploy internal capital through disciplined, infrastructure-driven strategies
 
 ---
 
-### **Project Lead – Capgemini, Tokyo**  
+### **Project Lead – Capgemini**  
 *Jul 2012 – Sep 2015*
 
 - Delivered financial automation solutions to AIG Japan using Agile and ISTQB best practices.  
