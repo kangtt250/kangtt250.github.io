@@ -9,7 +9,7 @@ order: 1
 
 ## Seon Zhu 
 
-Rock Bund Capital is a proprietary trading firm specializing in market-neutral, high-frequency strategies. We combine rigorous quantitative research with institutional-grade infrastructure to capture consistent alpha in all market conditions. As Head of Business Development, I lead strategic initiatives to scale our internal trading capabilities, deepen partnerships, and empower elite trading teams with advanced tools, capital, and low-latency infrastructure.
+Crypto-native executive with 12+ years in FinTech and 7 years leading trading products, infrastructure, and strategy across top-tier crypto exchanges. Currently scaling a proprietary trading desk at Rock Bund Capital, with a focus on market-neutral strategies, low-latency execution, and empowering top-tier HFT talent. We deploy internal capital through disciplined, infrastructure-driven strategies across global venues, combining institutional-grade systems with deep market insight.
 
 Prior to this, I was with Binance, where I helped build and scale the platform’s low-latency futures trading stack—supporting a significant share of its global volume. With over 12 years in FinTech and 7 years in centralized exchanges, I remain focused on advancing proprietary trading through innovation, operational excellence, and deep market connectivity.
 
@@ -17,11 +17,11 @@ Prior to this, I was with Binance, where I helped build and scale the platform�
 
 ### **Head of Business Development, Rock Bund Capital, Singapore — 2025.04-Present**
 
-- At Rock Bund Capital, I lead our business and strategic partnership initiatives focused on proprietary trading and supporting exceptional quantitative talent.We are an active market-neutral trading team, with a deep focus on execution, infrastructure, and disciplined risk management. Our proprietary desk runs scalable high-frequency strategies powered by in-house systems and robust market connectivity.
+- Lead global business and strategic initiatives for a proprietary trading firm focused on market-neutral and high-frequency strategies.
 
-- For high-performing HFT traders & PMs: We collaborate with teams and individuals who have a proven edge but are limited by capital or infrastructure. We provide the resources needed to scale — including capital, low-latency access, and full operational support — while ensuring complete autonomy and ownership of your strategy.
+- Work closely with elite quant teams to provide capital, low-latency connectivity, and operational support — enabling scalable alpha generation while preserving full autonomy.
 
-- If you're a quant trader looking to scale, or a venue exploring collaboration with a committed trading partner — feel free to reach out.
+- Focused exclusively on proprietary trading and internal capital deployment.
 
 ### **Futures Business Lead, Binance, Remote — 2023.12-2025.04**
 
