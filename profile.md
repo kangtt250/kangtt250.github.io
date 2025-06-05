@@ -59,7 +59,7 @@ We deploy internal capital through disciplined, infrastructure-driven strategies
 
 ---
 
-### **Chief Product Officer – Coinsuper**  
+### **Partner – Coinsuper**  
 *Jul 2018 – Dec 2020*
 
 - Oversaw trading infrastructure, product roadmap, and compliance alignment in collaboration with ecosystem partners and regulators.  
@@ -67,7 +67,7 @@ We deploy internal capital through disciplined, infrastructure-driven strategies
 
 ---
 
-### **Senior Test Engineer – Ant Financial (Alipay)**  
+### **Senior Test Development Engineer – Ant Financial (Mybank)**  
 *Dec 2016 – Jul 2018*
 
 - Delivered high-reliability bank-side payment integrations within Alipay Web ecosystem.  
@@ -102,7 +102,7 @@ We deploy internal capital through disciplined, infrastructure-driven strategies
 - CFA Level II Passed (Level III Candidate)  
 - PMP & ITIL V3 Certified  
 - JLPT N1 (Japanese), CET-6 (English)  
-- OCJP | Python + SQL | ISTQB Advanced (Test Analyst & Manager)
+- OCJP | Python + SQL | ISTQB Advanced (Test Analyst & Technical Test Analyst & Test Manager)
 
 ---
 
