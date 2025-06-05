@@ -37,7 +37,7 @@ Prior to this, I was with Binance, where I helped build and scale the platform�
 ### **Principal Product Manager, Bybit, Singapore — 2022.4-2023.11**
 
 - Spearhead the entire product development and launch of Bybit Trading Bot includes sub-products like spot grid, spot dca, futures grid, futures martingale, Aurora AI and copy strategy. **Show Case 1: [Bybit Trading Bot](https://www.bybit.com/en-US/tradingbot)**
-- Advised on cross-departmental products including CopyTrading, Trading Tools, and Wealth Management (Earn), and implemented Proof of Stake (PoS) products within Earn Management. **Show Case 2: [Bybit Savings](https://www.bybit.com/en-US/earn/savings)**
+- Advised on cross-departmental products including CopyTrading, Trading Tools.
 
 ### **Product Specialist, Gate.io, Remote — 2021.11-2022.4**
 
