@@ -10,6 +10,8 @@ order: 1
 
 ## Seon's Note
 
+[· DCI 双币产品](/article/crypto/DCI/)
+
 [· AQDQ 结构化产品](/article/crypto/AQDQ/)
 
 [· Snowball 雪球结构化产品](/article/crypto/Snowball/)
