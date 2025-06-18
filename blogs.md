@@ -10,6 +10,8 @@ order: 1
 
 ## Seon's Note
 
+[· Crypto v.s 全球资产](/article/crypto/CryptoGlobal/)
+
 [· DCI 双币产品](/article/crypto/DCI/)
 
 [· AQDQ 结构化产品](/article/crypto/AQDQ/)
