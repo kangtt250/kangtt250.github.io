@@ -20,7 +20,7 @@ With 12+ years in FinTech and 7 years leading trading products, infrastructure, 
 
 ## 🔹 Experience
 
-### **Derivatives BD Manager – Binance **  
+### **Derivatives BD Manager – Binance**  
 *Dec 2023 – Apr 2025*
 
 - Directed strategy and product delivery for Binance Futures & Options division.  
