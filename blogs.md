@@ -9,6 +9,7 @@ order: 1
 
 
 ## Seon's Note
+[· Why most crypto trading strategies don’t fail at alpha, but die at structure?](/article/crypto/structure/)
 
 [· Crypto v.s 全球资产](/article/crypto/CryptoGlobal/)
 
