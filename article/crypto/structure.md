@@ -2,12 +2,6 @@
 
 Let’s talk about the invisible layer between a strategy and real capital.
 
-This thread is for:
-- Traders with alpha but no investors
-- PMs struggling to scale
-- LPs frustrated with crypto funds
-
-
 ## 1/ In TradFi, a strategy becomes a product because it fits into a **known structure**:
 - SMA
 - LP fund
