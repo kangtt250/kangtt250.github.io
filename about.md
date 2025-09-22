@@ -1,17 +1,17 @@
 ## 1
-你握着枪，我也握着枪，我们可以谈法律。  
+你若有枪，我也握着枪，那我们可以谈法律。  
 If you hold a gun and I hold a gun, we can talk about the law.  
 
-你持着刀，我也持着刀，我们可以谈规则。  
+你若持着刀，我也持着刀，我们可以谈规则。  
 If you hold a knife and I hold a knife, we can talk about rules.  
 
 你我若空手而来，便能谈理性。  
 If we both come empty-handed, then we can talk about reason.  
 
-但若你有枪而我只有刀，真理就握在你手中。  
+但若你有枪，而我只有刀，真理就握在你手中。  
 But if you have a gun and I only a knife, the truth lies in your hand.  
 
-若你有枪而我一无所有，你手里的不是武器，而是我的命。  
+若你有枪而我一无所有，你手里的不是武器，而是我的生命。  
 And if you have a gun while I have nothing, what you hold is not just a weapon—it is my life.  
 
 ---
@@ -32,7 +32,7 @@ Rules are chains for the weak and tools for the strong.
 ---
 
 ## 3
-这个世界上一切美好都要靠争取。  
+这个世界上一切好处都要靠争取。  
 In this world, anything good must be fought for.  
 
 强者拼尽全力争夺资源，  
@@ -74,7 +74,7 @@ And most governments enforce them harshly only upon the powerless.
 别把“世界”与“人生”混为一谈。  
 Do not confuse the “world” with “life.”  
 
-活好上天赐予的时光，不要恐惧。  
+活好上帝赐予的时光，不要恐惧。  
 Live the time God has given you, without fear.  
 
 把世间看作考验，而不是判决。  
