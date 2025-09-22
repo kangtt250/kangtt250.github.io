@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-### 1  
+## 1
 你握着枪，我也握着枪，我们可以谈法律。  
 If you hold a gun and I hold a gun, we can talk about the law.  
 
@@ -19,7 +19,7 @@ And if you have a gun while I have nothing, what you hold is not just a weapon�
 
 ---
 
-### 2  
+## 2
 法律、规则与道德，只有建立在平等之上才有意义。  
 Law, rules, and morality only carry meaning when they are founded on equality.  
 
@@ -34,7 +34,7 @@ Rules are chains for the weak and tools for the strong.
 
 ---
 
-### 3  
+## 3
 这个世界上一切美好都要靠争取。  
 In this world, anything good must be fought for.  
 
@@ -46,7 +46,7 @@ While the weak can only sit idly, waiting for a share.
 
 ---
 
-### 4  
+## 4
 但世界的真相，不等于生命的真相。  
 Yet the truth of the world is not the same as the truth of life.  
 
@@ -64,7 +64,7 @@ I will watch in silence, for the end shows no favoritism.
 
 ---
 
-### 5  
+## 5
 所以，不必奢望完美的秩序。  
 Therefore, do not cling to dreams of perfect order.  
 
@@ -86,7 +86,7 @@ Take the world as a challenge, not a sentence.
 你是自己生命的主人，但你终究不会永生。  
 You are the master of your own life, but you will not live forever.  
 
-—— 阿门  
-—— Amen  
+—— 阿门 / Amen
+
 
 
