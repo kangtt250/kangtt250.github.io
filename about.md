@@ -1,6 +1,3 @@
----
-layout: post
----
 ## 1
 你握着枪，我也握着枪，我们可以谈法律。  
 If you hold a gun and I hold a gun, we can talk about the law.  
