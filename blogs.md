@@ -28,7 +28,6 @@ order: 1
 
 ## Seon's Collection
 
-[· 圣经去噪版](/article/crypto/BibleWithoutNoise/)
 
 [· 中英双语NIV版圣经](/article/bible/bible/)
 
