@@ -8,17 +8,35 @@ order: 1
 ---
 
 # Seon Zhu  
-_Ex-Binance, Bybit | 12+ Years in FinTech 
+_Ex-Binance, Bybit | 13+ Years in FinTech 
 
 ---
 
 ## 🔹 Summary
 
-With 12+ years in FinTech and 7 years leading trading products, infrastructure, and strategy across top-tier crypto exchanges. 
+Building resilient portfolios with purpose and vision.
 
 ---
 
 ## 🔹 Experience
+
+
+### **Head of Business Development  – Rock Bund Capital** 
+
+*Jan 2026 - Present*
+
+- Strategic Partnerships (Buy-side): Identify and onboard high-performing quantitative strategies and external managers for portfolio diversification.
+- Proprietary Growth: Scale our self-operated trading business across digital and traditional asset classes (CeFi, DeFi, and TradFi).
+- Bespoke Solutions (Sell-side): Drive the development and distribution of structured investment solutions for institutional and HNW clients.
+- Team Leadership: Build and mentor a world-class BD team, fostering a culture of rigorous risk management and execution excellence.… more
+
+### **Senior Business Development Manager – Rock Bund Capital**
+
+*Apr 2025 - Jan 2026*
+
+- Identify and vet high-capacity Portfolio Managers (PMs) and quantitative funds. Manage the end-to-end allocation process to ensure consistent risk-adjusted alpha and superior portfolio returns.
+- Bridge the gap between top-tier hedge funds within our ecosystem and qualified institutional investors/HNWIs.
+- Build and maintain a robust network within the global quantitative trading and asset management space to facilitate deal flow and strategic partnerships.
 
 ### **Derivatives BD Manager – Binance**  
 *Dec 2023 – Apr 2025*
@@ -104,3 +122,4 @@ Figma, Axure, Tableau, Jira, Git, Python, SQL
 - Composer & Producer: Tesla x PUBG commercial theme “Evolve”  
 - Gospel Music: “Praise to the Messiah” (arranger & songwriter)  
 - Tools: Logic Pro X, Pro Tools
+
