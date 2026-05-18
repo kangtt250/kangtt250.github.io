@@ -6,10 +6,10 @@ lang:                  en
 title:                 Seon Zhu
 
 description:           >
-  Official personal website of Seon Zhu, a FinTech and digital assets business development professional with experience at Binance, Bybit, Gate.io, and Rock Bund Capital.
+  Exploring intelligence, capital, and coordination in the age of AI.
 
 tagline:               >
-  Christian · Pisces · INFJ-A 
+  Signal · Music · Silence
 
 keywords:
   - Seon
@@ -21,7 +21,7 @@ keywords:
   - Binance
   - Bybit
 
-logo:                  /assets/img/site_images/icon.png
+logo:                  /assets/img/site-logo.png
 
 author:
   name:                Seon Zhu
@@ -41,10 +41,10 @@ social:
     - https://soundcloud.com/seon-zhu
 
 menu:  
-  - title:             About
-    url:               /about/
-  - title:             Blogs
-    url:               /blogs/
+  - title:             Now
+    url:               /now/
+  - title:             Essays
+    url:               /essays/
   - title:             Profile
     url:               /profile/
 
@@ -55,7 +55,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              5
 paginate_path:         /page-:num/
 
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/sidebar-background.jpg
 accent_color:          rgb(174,136,79)
 
 theme_color:           rgb(25,55,71)
@@ -93,7 +93,8 @@ hydejack:
 exclude:
   - vendor
   - Gemfile
-  - Gemfile.lock  
+  - Gemfile.lock
+  - essays/old
 
 plugins:
   - jekyll-default-layout

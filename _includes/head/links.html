@@ -3,8 +3,9 @@
 {% assign lang = page.lang | default:site.lang | default:'en' %}
 <link rel="alternate" href="{{ page.url | absolute_url }}" hreflang="{{ lang | downcase | replace:'_','-' }}">
 
-<link rel="shortcut icon" href="{{ '/assets/icons/favicon.ico' | relative_url }}">
-<link rel="apple-touch-icon" href="{{ '/assets/icons/icon.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/icons/favicon-16x16.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icons/favicon-32x32.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icons/apple-touch-icon.png' | relative_url }}">
 
 <link rel="manifest" href="{{ '/assets/manifest.json' | relative_url }}">
 
@@ -27,7 +28,7 @@
 <link rel="dns-prefetch" href="{{ '/assets/bower_components/katex/dist/katex.min.css'                        | relative_url }}" id="_hrefKatexCSS">
 <link rel="dns-prefetch" href="{{ '/assets/bower_components/katex/dist/contrib/copy-tex.min.js'              | relative_url }}" id="_hrefKatexCopyJS">
 <link rel="dns-prefetch" href="{{ '/assets/bower_components/katex/dist/contrib/copy-tex.min.css'             | relative_url }}" id="_hrefKatexCopyCSS">
-<link rel="dns-prefetch" href="{{ '/assets/img/swipe.svg'                                                    | relative_url }}" id="_hrefSwipeSVG">
+<link rel="dns-prefetch" href="{{ '/assets/img/drawer-swipe.svg'                                             | relative_url }}" id="_hrefSwipeSVG">
 
 {% assign disqus = site.disqus | default:site.disqus_shortname %}
 {% if disqus %}

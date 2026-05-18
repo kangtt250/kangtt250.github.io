@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Profile
+title: Seon
 description: >
   Exploring intelligence, capital, and coordination in the age of AI.
 menu: true
 order: 1
 ---
-
-# Seon Zhu
-
-> Builder of intelligent systems across finance, AI, and human coordination.
 
 Over the past decade, work has moved across traditional finance, crypto markets, quantitative trading, and financial infrastructure — exploring how technology reshapes capital, coordination, and human systems.
 
