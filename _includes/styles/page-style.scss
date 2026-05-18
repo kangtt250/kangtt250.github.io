@@ -1,5 +1,5 @@
-// These styles interact with JavsScript!
-// Their ordering MUST NOT be changed. See `_js/cross-fader.js`!
+// These styles interact with the page transition script.
+// Their ordering MUST NOT be changed.
 
 {% assign color       = include.color       | default:'#4fb1ba' %}
 {% assign theme_color = include.theme_color | default:'#193747' %}

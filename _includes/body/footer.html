@@ -1,8 +1,14 @@
-{% if site.copyright.size > 0 or site.legal.size > 0 or site.hydejack.advertise %}
+{% if site.copyright.size > 0 or site.copyright_name.size > 0 or site.legal.size > 0 or site.hydejack.advertise %}
 <footer role="contentinfo">
   <hr/>
-  {% if site.copyright.size > 0 %}
-    <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
+  {% if site.copyright.size > 0 or site.copyright_name.size > 0 %}
+    <p><small class="copyright">
+      {% if site.copyright.size > 0 %}
+        {{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}
+      {% else %}
+        © {{ site.copyright_name }} {{ site.time | date: '%Y' }}. All rights reserved.
+      {% endif %}
+    </small></p>
   {% endif %}
   {% if site.legal.size > 0 %}
     <nav class="legal"><small>
@@ -13,7 +19,6 @@
     {% endfor %}
     </small></nav>
   {% endif %}
-  <p><small>Powered by <a class="external" href="https://zhuhongqiao.com/">Seon</a> v<span id="_version">1.0.0</span></small></p>
   <hr class="sr-only"/>
 </footer>
 {% endif %}

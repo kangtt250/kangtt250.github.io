@@ -18,11 +18,6 @@
       "sizes": "48x48"
     },
     {
-      "src": "{{ 'assets/icons/icon@0,5x.png' | relative_url }}",
-      "type": "image/png",
-      "sizes": "96x96"
-    },
-    {
       "src": "{{ 'assets/icons/icon@0,75x.png' | relative_url }}",
       "type": "image/png",
       "sizes": "144x144"
@@ -31,16 +26,6 @@
       "src": "{{ 'assets/icons/icon.png' | relative_url }}",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "{{ 'assets/icons/icon@2x.png' | relative_url }}",
-      "type": "image/png",
-      "sizes": "384x384"
-    },
-    {
-      "src": "{{ 'assets/icons/icon@3x.png' | relative_url }}",
-      "type": "image/png",
-      "sizes": "576x576"
     }
   ]
 }

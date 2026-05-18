@@ -19,46 +19,9 @@ author:
       1x:            assets/img/user_icons/akanishi.jpeg
       2x:            assets/img/user_icons/akanishi.jpeg
 
-  # Social media icons in sidebar
-  # Comment/uncomment to show/hide
-  # Rearrange to change the order in which they appear
-  # Gotta look into fixing these social links.
   social:
     linkedin:        seon
     spotify:         artist/3rSQoTfa4Po9kK51DKVAGQ
     instagram:       seonzhu.eth
     twitter:         Seon_Zhu
     soundcloud:      seon-zhu
-    #facebook:        seonzhu.eth
-    #email:           seon.zhu@gmail.com
-    #github:          kangtt250
-    # rss:             https://<url>/feed.xml
-    # google:          <number>
-    # vk:              <username>
-    # youtube:         <string_string_string>
-    # vimeo:           <username>
-    # vine:            <username>
-    # lastfm:          <username>
-    # flickr:          <string@string>
-    # 500px:           <username>
-    # dribbble:        <username>
-    # behance:         <username>
-    # deviantart:      <username>
-    # ello:            <username>
-    # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
-    # pinterest:       <username>
-    # foursquare:      <number>
-    # yelp:            <string>
-    # stackoverflow:   <number/username>
-    # npm:             <username>
-    # hackernews:      <username>
-    # trello:          <firstnamelastname>
-    # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
-    # delicious:       <username>
-    # stumbleupon:     <username>
-    # paypal:          <username>
-    # download:        <url>

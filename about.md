@@ -1,3 +1,12 @@
+---
+layout: page
+title: About
+description: >
+  Personal philosophy, bilingual notes, faith, markets, and reflections on life and systems.
+menu: true
+order: 2
+---
+
 ## 1
 你若有枪，我也握着枪，那我们可以谈法律。  
 If you hold a gun and I hold a gun, we can talk about the law.  
@@ -84,6 +93,4 @@ Take the world as a challenge, not a sentence.
 You are the master of your own life, but you will not live forever.  
 
 —— 阿门 / Amen
-
-
 

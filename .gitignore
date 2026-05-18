@@ -1,0 +1,11 @@
+.bundle/
+.jekyll-cache/
+.sass-cache/
+_site/
+vendor/
+node_modules/
+
+.DS_Store
+*.gem
+
+.idea/

@@ -1,0 +1,68 @@
+{% unless page.redirect or page.noindex %}
+{% assign canonical_url = page.url | absolute_url %}
+{% assign site_url = site.url | append: site.baseurl %}
+{% assign person_id = site_url | append: '/#person' %}
+{% assign website_id = site_url | append: '/#website' %}
+{% assign webpage_id = canonical_url | append: '#webpage' %}
+{% assign page_title = page.title | default:site.title %}
+{% assign page_description = page.description | default:site.description | markdownify | strip_html | strip_newlines | strip %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": "Seon Zhu",
+      "alternateName": "Seon",
+      "url": {{ site_url | append: '/' | jsonify }},
+      "image": {{ '/assets/img/user_icons/akanishi.jpeg' | absolute_url | jsonify }},
+      "jobTitle": "FinTech and Digital Assets Business Development Professional",
+      "description": "Seon Zhu is a FinTech and digital assets business development professional with experience across exchanges, derivatives, trading infrastructure, and investment solutions.",
+      "sameAs": [
+        "https://twitter.com/Seon_Zhu",
+        "https://www.linkedin.com/in/seon",
+        "https://instagram.com/seonzhu.eth",
+        "https://play.spotify.com/artist/3rSQoTfa4Po9kK51DKVAGQ",
+        "https://soundcloud.com/seon-zhu"
+      ],
+      "knowsAbout": [
+        "FinTech",
+        "Digital Assets",
+        "Crypto Derivatives",
+        "Trading Infrastructure",
+        "Portfolio Management",
+        "Structured Products"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "url": {{ site_url | append: '/' | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "alternateName": "Seon Zhu Personal Website",
+      "description": {{ site.description | markdownify | strip_html | strip_newlines | strip | jsonify }},
+      "publisher": {
+        "@id": {{ person_id | jsonify }}
+      },
+      "inLanguage": {{ site.lang | default:'en' | jsonify }}
+    },
+    {
+      "@type": "WebPage",
+      "@id": {{ webpage_id | jsonify }},
+      "url": {{ canonical_url | jsonify }},
+      "name": {{ page_title | jsonify }},
+      "description": {{ page_description | jsonify }},
+      "isPartOf": {
+        "@id": {{ website_id | jsonify }}
+      },
+      "about": {
+        "@id": {{ person_id | jsonify }}
+      },
+      "primaryImageOfPage": {{ site.logo | absolute_url | jsonify }},
+      "inLanguage": {{ page.lang | default:site.lang | default:'en' | jsonify }}
+    }
+  ]
+}
+</script>
+{% endunless %}
