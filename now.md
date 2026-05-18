@@ -2,7 +2,7 @@
 layout: page
 title: Now
 description: >
-  Current obsessions, unfinished thoughts, and ongoing explorations.
+  What is currently alive in work, attention, and unfinished thought.
 redirect_from:
   - /about/
 menu: true
@@ -89,4 +89,3 @@ Still collecting fragments.
 Still searching for signal inside noise.
 
 Still trying to understand what remains uniquely human in an age of synthetic intelligence.
-

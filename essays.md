@@ -2,7 +2,7 @@
 layout: page
 title: Essays
 description: >
-  Fragments of thought on intelligence, markets, technology, and meaning.
+  Fragments on intelligence, markets, technology, and the search for meaning.
 redirect_from:
   - /blogs/
 menu: true

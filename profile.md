@@ -2,7 +2,7 @@
 layout: page
 title: Seon
 description: >
-  Exploring intelligence, capital, and coordination in the age of AI.
+  A brief map of background, experience, and the questions that keep returning.
 menu: true
 order: 1
 ---
