@@ -106,8 +106,8 @@
   content: "\ea96";
 }
 .icon-x:before {
-  content: "𝕏";
-  font-family: serif;
+  content: "X";
+  font-family: Arial, sans-serif;
   font-weight: bold;
 }
 .icon-vine:before {
