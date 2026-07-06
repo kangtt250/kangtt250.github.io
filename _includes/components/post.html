@@ -20,6 +20,9 @@
       {% assign tag_separator      = site.data.strings.tag_separator      | default:", "  %}
       {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
       {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
+      {% if no_excerpt %}
+        {% include components/post-actions.html post=post %}
+      {% endif %}
     </p>
 
     {% assign alt = false %}

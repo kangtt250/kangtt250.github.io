@@ -11,9 +11,9 @@ instagram:
   icon: icon-instagram
   prepend: "https://instagram.com/"
 twitter:
-  name: Twitter
-  icon: icon-twitter
-  prepend: "https://twitter.com/"
+  name: X
+  icon: icon-x
+  prepend: "https://x.com/"
 soundcloud:
   name: SoundCloud
   icon: icon-soundcloud

@@ -20,6 +20,7 @@ layout: base
       {% assign tag_separator      = site.data.strings.tag_separator      | default:", "  %}
       {% include components/tag-list.html tags=page.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
       {% include components/tag-list.html tags=page.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
+      {% include components/post-actions.html post=page %}
     </p>
 
     {% assign alt = false %}

@@ -1,0 +1,16 @@
+{% assign post = include.post | default:page %}
+{% assign post_url = post.url | absolute_url %}
+{% assign post_title = post.title | default:site.title %}
+
+<span class="post-actions" aria-label="Post actions">
+  <a
+    class="post-action no-mark-external"
+    href="https://x.com/intent/post?url={{ post_url | uri_escape }}&text={{ post_title | uri_escape }}"
+    title="Share on X"
+    aria-label="Share on X"
+    rel="noopener"
+    target="_blank"
+  >
+    <span class="icon-x" aria-hidden="true"></span>
+  </a>
+</span>
