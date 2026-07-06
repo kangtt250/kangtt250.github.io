@@ -106,7 +106,9 @@
   content: "\ea96";
 }
 .icon-x:before {
-  content: "\ea96";
+  content: "𝕏";
+  font-family: serif;
+  font-weight: bold;
 }
 .icon-vine:before {
   content: "\ea97";
