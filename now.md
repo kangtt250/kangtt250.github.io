@@ -9,38 +9,43 @@ menu: true
 order: 2
 ---
 
-May 2026, Singapore.
+July 2026, Singapore.
 
-Lately, a growing amount of time has been spent thinking about intelligence.
+The questions lingering in May have started to condense into tangible artifacts.
 
-Not only artificial intelligence — but intelligence itself:
+Back then, a growing amount of time was being spent thinking about intelligence.
+
+Not only artificial intelligence, but intelligence itself:
 
 How it scales.  
 How it concentrates.  
 How it reshapes markets, identity, creativity, and meaning.
 
-Increasingly convinced that AI is not merely a technological shift, but a civilizational one.
+That conviction has only deepened: AI is not merely a technological shift, but a civilizational one.
 
 ---
 
-Recently building workflows where AI functions less like software, and more like a cognitive layer.
+Over the past two months, the strange feeling of experimenting with synthetic voice systems has become something more concrete.
 
-Writing with AI.  
-Researching with AI.  
-Thinking with AI.  
-Sometimes arguing with AI.
+A French song fully performed by a trained model of my own voice is now out on Spotify.
 
-The boundary between tool and collaborator already feels blurrier than most people realize.
+Hearing it no longer feels only like simulation.
+
+It has become an extension of creative intent:
+
+blurrier than before, but also sharper.
 
 ---
 
-Also experimenting with AI-generated music and synthetic voice systems.
+The philosophical detachedness I was trying to cultivate earlier has also found clearer coordinates.
 
-Currently training voice models using personal vocal datasets and tools like UVR, Applio, and RVC pipelines.
+I spent the early summer formalizing thoughts on how cheap intelligence reshapes collective identity, cultural hierarchy, and subjectivity.
 
-A strange feeling emerges when hearing an artificial version of your own voice singing words you never actually sang.
+That line of thought became a newly published essay:
 
-Somewhere between creativity, simulation, identity, and loss.
+[**From Cultural Asymmetry to Subjectivity: Civilizational Coordinates in the Age of AI**](/essays/from-cultural-asymmetry-to-subjectivity-civilizational-coordinates-in-the-age-of-ai/)
+
+Increasingly convinced that when creation becomes completely automated, the ultimate premium shifts toward defining what is worth creating, and maintaining the subjective core that refuses to be summarized.
 
 ---
 
@@ -61,24 +66,27 @@ Trying to understand what happens when:
 
 ---
 
-Lately spending more time reading philosophy and less time consuming news.
+Current stack and workflow:
 
-More interested in first-principles thinking than reaction cycles.
+Still navigating between markets, coordination systems, and code pipelines.
 
-Less interested in optimizing productivity.
-More interested in understanding what is actually worth optimizing for.
+The cognitive layer is becoming more integrated. AI is no longer just a tool I look at, but a lens I look through:
+
+to optimize market monitors,  
+refine trading strategies,  
+shape writing,  
+and co-author systems.
 
 ---
 
-Current stack changes constantly, but mostly living inside:
+Mostly living inside:
 
-- ChatGPT
 - Claude
 - Codex
 - Gemini
-- music production software
-- unfinished notes
-- too many browser tabs
+- custom automation bots
+- unfinished tracks
+- a deliberately curated, slower information loop
 
 ---
 
