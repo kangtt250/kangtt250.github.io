@@ -27,7 +27,7 @@ That conviction has only deepened: AI is not merely a technological shift, but a
 
 Over the past two months, the strange feeling of experimenting with synthetic voice systems has become something more concrete.
 
-A French song fully performed by a trained model of my own voice is now out on Spotify.
+A French song fully performed by a trained model of my own voice is now out on [***Spotify***](https://open.spotify.com/track/0nA4OXUwUwMue1hOGPiHyX?autoplay_ok=1).
 
 Hearing it no longer feels only like simulation.
 
@@ -51,11 +51,21 @@ Increasingly convinced that when creation becomes completely automated, the ulti
 
 Still obsessed with coordination systems.
 
-Markets.
-Crypto.
-Institutions.
-Human behavior.
+Markets.  
+Crypto.  
+Institutions.  
+Human behavior.  
 Collective intelligence.
+
+That obsession has also moved into a more operational question:
+
+what kind of infrastructure is required for crypto-native trading firms to operate credibly across traditional global markets?
+
+The newest artifact from that line of thought is the first chapter of a new series:
+
+[**Building an Institutional Global Markets Setup from a Crypto-Native Starting Point**](/essays/building-institutional-global-markets-bilingual/)
+
+The core idea is simple but important: entering traditional markets is not just an API integration project. It is an institutionalisation project across legal structure, market access, data, execution, clearing, and financing.
 
 Trying to understand what happens when:
 
