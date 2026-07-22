@@ -2,7 +2,8 @@
 layout: page
 title: Essays
 description: >
-  Fragments on intelligence, markets, technology, and the search for meaning.
+  Fragments on intelligence, markets, technology, capital infrastructure,
+  and the search for meaning.
 redirect_from:
   - /blogs/
 menu: true
@@ -12,15 +13,22 @@ Some thoughts arrive as essays.
 
 Most begin as questions.
 
-Lately, many of those questions seem to orbit around intelligence:
+Lately, many of those questions seem to orbit around intelligence and capital:
 
 artificial intelligence, collective intelligence, market intelligence, emotional intelligence, machine intelligence.
 
 How intelligence reshapes identity.  
 How technology reshapes meaning.  
-How coordination reshapes civilization.
+How coordination reshapes civilization.  
+How market infrastructure reshapes what capital can become.
 
 This space is less a blog and more an evolving map of ongoing obsessions, unfinished thoughts, and attempts at seeing clearly.
+
+---
+
+[**Building an Institutional Global Markets Setup from a Crypto-Native Starting Point**](/essays/building-institutional-global-markets-bilingual/)
+
+Why entering traditional markets from a crypto-native starting point is not merely an API integration project, but an institutionalisation project across legal structure, market access, data, execution, clearing, and financing.
 
 ---
 
