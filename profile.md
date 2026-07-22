@@ -65,10 +65,13 @@ Large-scale financial systems and digital banking infrastructure.
 
 ## Creative & Independent Work
 
-Creative work spans music composition, writing, systems thinking, markets, AI, philosophy, and digital culture.
+My independent work spans music composition, writing, systems thinking, markets, AI, philosophy, and digital culture.
 
-A representative music credit is ["EVOLVE" - PUBG MOBILE & TESLA Collaboration Theme Song](https://www.youtube.com/watch?v=GSWQP_iBGtI), where Seon Zhu is credited as composer alongside the PUBG MOBILE OFFICIAL TEAM.
+Representative music work includes:
 
-This work sits alongside independent writing and research on the evolving relationship between intelligence, technology, capital, and meaning — especially in an era increasingly shaped by artificial intelligence.
+- ["EVOLVE" - PUBG MOBILE & TESLA Collaboration Theme Song](https://www.youtube.com/watch?v=GSWQP_iBGtI), a commercial collaboration where I am credited as composer with the PUBG MOBILE OFFICIAL TEAM.
+- [0.00 MHz](https://open.spotify.com/album/0rs0dQjqUUtTsSIb8RRKxJ), a personal jazz album.
+
+These projects sit alongside independent writing and research on the evolving relationship between intelligence, technology, capital, and meaning — especially in an era increasingly shaped by artificial intelligence.
 
 
