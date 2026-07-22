@@ -65,13 +65,13 @@ Large-scale financial systems and digital banking infrastructure.
 
 ## Creative & Independent Work
 
-My independent work spans music composition, writing, systems thinking, markets, AI, philosophy, and digital culture.
+My creative work is another way of studying systems: sound, attention, memory, and the emotional architecture beneath technology and markets.
 
-Representative music work includes:
+In music, this has moved between personal jazz writing and large-scale commercial composition. Representative works include:
 
-- ["EVOLVE" - PUBG MOBILE & TESLA Collaboration Theme Song](https://www.youtube.com/watch?v=GSWQP_iBGtI), a commercial collaboration where I am credited as composer with the PUBG MOBILE OFFICIAL TEAM.
-- [0.00 MHz](https://open.spotify.com/album/0rs0dQjqUUtTsSIb8RRKxJ), a personal jazz album.
+- [0.00 MHz](https://open.spotify.com/album/0rs0dQjqUUtTsSIb8RRKxJ), a personal jazz album built around silence, signal, and improvisational space.
+- ["EVOLVE" - PUBG MOBILE & TESLA Collaboration Theme Song](https://www.youtube.com/watch?v=GSWQP_iBGtI), a PUBG MOBILE and TESLA collaboration where I am credited as composer with the PUBG MOBILE OFFICIAL TEAM.
 
-These projects sit alongside independent writing and research on the evolving relationship between intelligence, technology, capital, and meaning — especially in an era increasingly shaped by artificial intelligence.
+These projects sit beside my writing on intelligence, capital, machines, and meaning. They are not separate identities so much as different instruments for the same inquiry: how human experience changes when technology begins to reshape perception, coordination, and desire.
 
 
