@@ -5,7 +5,7 @@ linkedin:
 spotify:
   name: Spotify
   icon: icon-spotify
-  prepend: "https://play.spotify.com/"
+  prepend: "https://open.spotify.com/"
 instagram:
   name: Instagram
   icon: icon-instagram

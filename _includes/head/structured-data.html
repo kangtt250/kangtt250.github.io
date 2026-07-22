@@ -1,7 +1,7 @@
 {% unless page.redirect or page.noindex %}
 {% assign canonical_url = page.url | absolute_url %}
 {% assign site_url = site.url | append: site.baseurl %}
-{% assign person_id = site_url | append: '/#person' %}
+{% assign person_id = site_url | append: '/#seon-zhu' %}
 {% assign website_id = site_url | append: '/#website' %}
 {% assign webpage_id = canonical_url | append: '#webpage' %}
 {% assign page_title = page.title | default:site.title %}
@@ -14,25 +14,30 @@
       "@type": "Person",
       "@id": {{ person_id | jsonify }},
       "name": "Seon Zhu",
-      "alternateName": "Seon",
+      "alternateName": ["Seon", "Seon Zhu"],
       "url": {{ site_url | append: '/' | jsonify }},
       "image": {{ '/assets/img/author-avatar.jpeg' | absolute_url | jsonify }},
-      "jobTitle": "FinTech and Digital Assets Business Development Professional",
-      "description": "Seon Zhu is a FinTech and digital assets business development professional with experience across exchanges, derivatives, trading infrastructure, and investment solutions.",
+      "jobTitle": "Head of Business Development",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Rock Bund Capital"
+      },
+      "description": "Seon Zhu is Head of Business Development at Rock Bund Capital, with experience across global markets, crypto exchanges, quantitative trading, derivatives, and financial infrastructure.",
       "sameAs": [
         "https://x.com/Seon_Zhu",
         "https://www.linkedin.com/in/seon",
         "https://instagram.com/seonzhu.ai",
-        "https://play.spotify.com/artist/3rSQoTfa4Po9kK51DKVAGQ",
+        "https://open.spotify.com/artist/3rSQoTfa4Po9kK51DKVAGQ",
+        "https://music.apple.com/us/artist/seon-zhu/1592625396",
         "https://soundcloud.com/seon-zhu"
       ],
       "knowsAbout": [
-        "FinTech",
-        "Digital Assets",
+        "Global Markets",
+        "Crypto Markets",
+        "Quantitative Trading",
+        "Financial Infrastructure",
         "Crypto Derivatives",
-        "Trading Infrastructure",
-        "Portfolio Management",
-        "Structured Products"
+        "Artificial Intelligence"
       ]
     },
     {
@@ -59,9 +64,35 @@
       "about": {
         "@id": {{ person_id | jsonify }}
       },
+      {% if page.url == '/profile/' %}
+      "mainEntity": {
+        "@id": {{ person_id | jsonify }}
+      },
+      {% endif %}
       "primaryImageOfPage": {{ site.logo | absolute_url | jsonify }},
       "inLanguage": {{ page.lang | default:site.lang | default:'en' | jsonify }}
+    }{% if page.layout == 'essay' %},
+    {
+      "@type": "Article",
+      "@id": {{ canonical_url | append:'#article' | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page_description | jsonify }},
+      "url": {{ canonical_url | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "dateModified": {{ page.last_modified_at | default:page.date | date_to_xmlschema | jsonify }},
+      "author": {
+        "@id": {{ person_id | jsonify }}
+      },
+      "publisher": {
+        "@id": {{ person_id | jsonify }}
+      },
+      "mainEntityOfPage": {
+        "@id": {{ webpage_id | jsonify }}
+      },
+      "image": {{ page.image | default:site.logo | absolute_url | jsonify }},
+      "inLanguage": {{ page.lang | default:site.lang | default:'en' | jsonify }}
     }
+    {% endif %}
   ]
 }
 </script>
