@@ -23,7 +23,7 @@
             <img src="{{ site.logo | relative_url }}" class="avatar" alt="{{ site.short_title | default:site.title }}" data-ignore />
           </a>
         {% endif %}
-        <h2 class="h1"><a href="{{ '/' | relative_url }}">{{ site.short_title | default:site.title }}</a></h2>
+        <h2 class="h1"><a href="{{ page.url | relative_url }}">{{ site.short_title | default:site.title }}</a></h2>
         {% assign text = site.tagline | default:site.description %}
         {% if text %}
           <p class="{% if text.size > 100 %}fine{% endif %}">
@@ -42,6 +42,48 @@
         {% include components/social.html author=author %}
       </div>
     </div>
+
+    <div class="home-music sidebar-music" aria-label="Featured music">
+      <iframe
+        title="SoundCloud player"
+        width="100%"
+        height="20"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay; encrypted-media"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2364770231&color=%23ff5500&inverse=false&auto_play=true&show_user=true">
+      </iframe>
+      <div style="font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;">
+        <a href="https://soundcloud.com/seon-zhu" title="Seon Zhu" target="_blank" style="color: #cccccc; text-decoration: none;">Seon Zhu</a> · <a href="https://soundcloud.com/seon-zhu/twilight" title="ガラス越しの Twilight" target="_blank" style="color: #cccccc; text-decoration: none;">ガラス越しの Twilight</a>
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        function isHomeRoute() {
+          var path = window.location.pathname.replace(/\/index\.html$/, '/');
+          return path === '{{ "/" | relative_url }}';
+        }
+
+        function syncCoverRoute() {
+          var drawer = document.querySelector('hy-drawer');
+          if (drawer) drawer.classList.toggle('cover', isHomeRoute());
+        }
+
+        syncCoverRoute();
+
+        var pushState = document.querySelector('hy-push-state');
+        if (pushState) {
+          pushState.addEventListener('hy-push-state-after', function () {
+            window.setTimeout(syncCoverRoute, 0);
+          });
+        }
+
+        window.addEventListener('popstate', function () {
+          window.setTimeout(syncCoverRoute, 0);
+        });
+      }());
+    </script>
   </header>
 </hy-drawer>
 <hr class="sr-only" hidden />

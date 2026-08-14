@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Seon Zhu
+title: Profile
 heading: Seon Zhu
 description: >
   Profile of Seon Zhu, Head of Business Development at Rock Bund Capital, with experience across global markets, crypto exchanges, quantitative trading, and financial infrastructure.

@@ -21,7 +21,7 @@ keywords:
   - Binance
   - Bybit
 
-logo:                  /assets/img/site-logo.png
+logo:                  /assets/img/headpic.jpg
 
 author:
   name:                Seon Zhu
@@ -56,7 +56,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              5
 paginate_path:         /page-:num/
 
-accent_image:          /assets/img/sidebar-background.jpg
+accent_image:          /assets/img/background.jpg
 accent_color:          rgb(174,136,79)
 
 theme_color:           rgb(25,55,71)

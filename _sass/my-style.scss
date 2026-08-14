@@ -41,3 +41,46 @@
   text-decoration: none;
   border-color: currentColor;
 }
+
+.home-music {
+  width: 100%;
+}
+
+.home-music iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 20px;
+  border: 0;
+  border-radius: 0;
+  background: #181818;
+  box-shadow: none;
+}
+
+.cover .sidebar-sticky {
+  max-width: min(34rem, calc(100vw - 2rem));
+}
+
+.sidebar-music {
+  display: block;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 4;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  background: #181818;
+}
+
+.sidebar {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 30rem) {
+  .sidebar {
+    padding-bottom: 2rem;
+  }
+}
