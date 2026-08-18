@@ -9,7 +9,7 @@ menu: true
 order: 2
 ---
 
-Mid-August 2026, Singapore.
+Q3 2026, Singapore.
 
 The questions that were forming earlier this summer have started to converge.
 
@@ -92,7 +92,7 @@ The July essay still matters:
 
 Its core point remains intact: entering traditional markets is not just an API integration project. It is an institutionalisation project across legal structure, market access, data, execution, clearing, and financing.
 
-But the August layer sits above it.
+But the newer layer sits above it.
 
 If financial institutions become infrastructure for agents, then brokers, exchanges, data providers, banks, custodians, and risk systems all need to ask a different question:
 

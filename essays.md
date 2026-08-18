@@ -13,7 +13,7 @@ Some thoughts arrive as essays.
 
 Most begin as questions.
 
-As of mid-August 2026, many of those questions have moved closer to the interface between intelligence and capital:
+In Q3 2026, many of those questions have moved closer to the interface between intelligence and capital:
 
 artificial intelligence, market infrastructure, agentic workflows, collective intelligence, emotional intelligence, machine intelligence.
 
