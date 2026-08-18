@@ -13,16 +13,23 @@ Some thoughts arrive as essays.
 
 Most begin as questions.
 
-Lately, many of those questions seem to orbit around intelligence and capital:
+As of mid-August 2026, many of those questions have moved closer to the interface between intelligence and capital:
 
-artificial intelligence, collective intelligence, market intelligence, emotional intelligence, machine intelligence.
+artificial intelligence, market infrastructure, agentic workflows, collective intelligence, emotional intelligence, machine intelligence.
 
 How intelligence reshapes identity.  
 How technology reshapes meaning.  
 How coordination reshapes civilization.  
-How market infrastructure reshapes what capital can become.
+How market infrastructure reshapes what capital can become.  
+How AI agents may become the new interface layer between human intent and financial infrastructure.
 
 This space is less a blog and more an evolving map of ongoing obsessions, unfinished thoughts, and attempts at seeing clearly.
+
+---
+
+[**From API-Native Markets to Agent-Native Markets**](/essays/from-api-native-markets-to-agent-native-markets/)
+
+Why AI may become the new interface layer of finance, sitting between human intent and market infrastructure.
 
 ---
 
